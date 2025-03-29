@@ -1,0 +1,641 @@
+,Brand,Category,Sub_Category
+0,SONIC Drive In,Food,Fast_Food
+1,Taco Bell,Food,Fast_Food
+2,Arby's,Food,Fast_Food
+3,Steak 'n Shake,Food,Fast_Food
+4,Wendy's,Food,Fast_Food
+5,Burger King,Food,Fast_Food
+6,Chipotle Mexican Grill,Food,Fast_Food
+7,7-Eleven,Food,Fast_Food
+8,Dairy Queen,Food,Fast_Food
+9,Mr. Hero,Food,Fast_Food
+10,Golden Chick,Food,Fast_Food
+11,Carl's Jr,Food,Fast_Food
+12,Checkers,Food,Fast_Food
+13,Rally's,Food,Fast_Food
+14,Togo's,Food,Fast_Food
+15,Little Q Hot Pot,Food,Fast_Food
+16,McDonald's,Food,Fast_Food
+17,Five Guys,Food,Fast_Food
+18,Boston Road Pizza,Food,Fast_Food
+19,Boston Market,Food,Fast_Food
+20,D'Angelo Grilled Sandwiches,Food,Fast_Food
+21,Nino's Pizzarama,Food,Fast_Food
+22,Filippi's Pizza Grotto,Food,Fast_Food
+23,Jack in the Box,Food,Fast_Food
+24,Round Table Pizza,Food,Fast_Food
+25,El Pollo Loco,Food,Fast_Food
+26,In-N-Out Burger,Food,Fast_Food
+27,Copper Oven Artisan Pizza,Food,Fast_Food
+28,Del Taco,Food,Fast_Food
+29,Little Caesars Pizza,Food,Fast_Food
+30,Sbarro,Food,Fast_Food
+31,Casey's General Store,Food,Fast_Food
+32,SUBWAY,Food,Fast_Food
+33,Fat Patty's,Food,Fast_Food
+34,Pizza Hut,Food,Fast_Food
+35,Culver's,Food,Fast_Food
+36,KFC,Food,Fast_Food
+37,SONIC Drive-In,Food,Fast_Food
+38,Whataburger,Food,Fast_Food
+39,Chick-Fil-A,Food,Fast_Food
+40,Firehouse Subs,Food,Fast_Food
+41,Cupie's Drive-In,Food,Fast_Food
+42,Primo's Pizza,Food,Fast_Food
+43,Simple Simon's Pizza,Food,Fast_Food
+44,CASA Mexicana,Food,Fast_Food
+45,Bob Evans,Food,Fast_Food
+46,Players Grill,Food,Fast_Food
+47,Back Yard Burgers,Food,Fast_Food
+48,Italo's Pizza,Food,Fast_Food
+49,Hunan Gardens,Food,Fast_Food
+50,Toppers Pizza,Food,Fast_Food
+51,Hernandez Mexican Restaurant,Food,Fast_Food
+52,Glorious Foods Gourmet to go & Catering,Food,Fast_Food
+53,Schlotzsky's,Food,Fast_Food
+54,Chicken Express,Food,Fast_Food
+55,Big House Burgers,Food,Fast_Food
+56,Jerry's Subs & Pizza,Food,Fast_Food
+57,Fox's Pizza Den,Food,Fast_Food
+58,Pizza Pub,Food,Fast_Food
+59,Grande Italian Restaurant,Food,Fast_Food
+60,Arni's Crawfordsville,Food,Fast_Food
+61,Arctic Circle,Food,Fast_Food
+62,Pizza Barn,Food,Fast_Food
+63,Rico's Pizza & Subs,Food,Fast_Food
+64,B's Pizza,Food,Fast_Food
+65,Domino's Pizza,Food,Fast_Food
+66,Hardee's,Food,Fast_Food
+67,Port of Subs,Food,Fast_Food
+68,Milk Street Cafe,Food,Fast_Food
+69,Pei Wei,Food,Fast_Food
+70,W.G. Grinders,Food,Fast_Food
+71,Foster's Freeze,Food,Fast_Food
+72,Caseys Carry Out Pizza,Food,Fast_Food
+73,Tastee Freez,Food,Fast_Food
+74,Taco Bueno,Food,Fast_Food
+75,Jimmy John's,Food,Fast_Food
+76,Subway,Food,Fast_Food
+77,Papa John's Pizza,Food,Fast_Food
+78,Cook Out,Food,Fast_Food
+79,SUBWAY¬Æ,Food,Fast_Food
+80,Krispy Krunchy Chicken,Food,Fast_Food
+81,Hardee's/red Burrito,Food,Fast_Food
+82,Lacey's On The Hill Restaurant,Food,Fast_Food
+83,Pizza Pro,Food,Fast_Food
+84,Cottage Inn Pizza,Food,Fast_Food
+85,Runza,Food,Fast_Food
+86,Eudici's Pizza,Food,Fast_Food
+87,Taco Cabana,Food,Fast_Food
+88,Boomer's Drive-In,Food,Fast_Food
+89,Hot Dog on a Stick,Food,Fast_Food
+90,Dunkin' Donuts,Food,Fast_Food
+91,Christo's Original,Food,Fast_Food
+92,Carvel,Food,Fast_Food
+93,Chicken Inn,Food,Fast_Food
+94,Shake Shack,Food,Fast_Food
+95,Quiznos Sub,Food,Fast_Food
+96,KFC - Kentucky Fried Chicken,Food,Fast_Food
+97,Chick-fil-A,Food,Fast_Food
+98,El Burrito Loco,Food,Fast_Food
+99,Papa Gino's,Food,Fast_Food
+100,Spangles,Food,Fast_Food
+101,Capri Restaurant,Food,Fast_Food
+102,Angelina's Pizza,Food,Fast_Food
+103,Chanello's Pizza,Food,Fast_Food
+104,Krystal,Food,Fast_Food
+105,China Bowl Take Out Restaurant,Food,Fast_Food
+106,Sonic Drive In,Food,Fast_Food
+107,Auntie Anne's Pretzels,Food,Fast_Food
+108,Garden Catering,Food,Fast_Food
+109,A's Ace Burgers,Food,Fast_Food
+110,Baker's Drive Thru,Food,Fast_Food
+111,Pizza Guys,Food,Fast_Food
+112,Chicago Pizza With A Twist,Food,Fast_Food
+113,Surfside Burger Shack,Food,Fast_Food
+114,Baskin-Robbins,Food,Fast_Food
+115,Church's Chicken,Food,Fast_Food
+116,Ameci Pizza & Pasta,Food,Fast_Food
+117,Ak Buffet,Food,Fast_Food
+118,Barro's Pizza,Food,Fast_Food
+119,Long John Silver's,Food,Fast_Food
+120,Boys Burgers,Food,Fast_Food
+121,Topper's Pizza,Food,Fast_Food
+122,Panda Express,Food,Fast_Food
+123,Einstein Bros Bagels,Food,Fast_Food
+124,Band Box Diner,Food,Fast_Food
+125,Quiznos,Food,Fast_Food
+126,Jersey Mike's Subs,Food,Fast_Food
+127,Tom's Drive In,Food,Fast_Food
+128,Boston Burger Company,Food,Fast_Food
+129,Romas Pizza,Food,Fast_Food
+130,Panera Bread,Food,Fast_Food
+131,Wienerschnitzel,Food,Fast_Food
+132,Pony Express To Go,Food,Fast_Food
+133,Popeyes,Food,Fast_Food
+134,Sonic,Food,Fast_Food
+135,Gambino's Pizza,Food,Fast_Food
+136,West Point Pizza,Food,Fast_Food
+137,McAlister's Deli,Food,Fast_Food
+138,Barberitos,Food,Fast_Food
+139,Mrs. Fields,Food,Fast_Food
+140,Taco Mayo,Food,Fast_Food
+141,Tacconelli's Pizza,Food,Fast_Food
+142,Guerrazzi's,Food,Fast_Food
+143,Gus's Carryout,Food,Fast_Food
+144,Moe's Southwest Grill,Food,Fast_Food
+145,Siam Fusion,Food,Fast_Food
+146,Steak Escape,Food,Fast_Food
+147,Mr. Chicken,Food,Fast_Food
+148,B.GOOD,Food,Fast_Food
+149,Taco Casa,Food,Fast_Food
+150,Sam's Gyros,Food,Fast_Food
+151,Bojangles' Famous Chicken 'n Biscuits,Food,Fast_Food
+152,Steak N Shake,Food,Fast_Food
+153,Waffle House,Food,Fast_Food
+154,Raising Cane's Chicken Fingers,Food,Fast_Food
+155,Sumo Steaks,Food,Fast_Food
+156,Dragon Dragon,Food,Fast_Food
+157,Crown Fried Chicken,Food,Fast_Food
+158,Tumby's Pizza,Food,Fast_Food
+159,Creperie,Food,Fast_Food
+160,Qdoba Mexican Eats,Food,Fast_Food
+161,Fat Mo's Burgers,Food,Fast_Food
+162,Charley's Grilled Subs,Food,Fast_Food
+163,Miss Katie's Diner,Food,Fast_Food
+164,Chronic Tacos,Food,Fast_Food
+165,Shawarma Kebab,Food,Fast_Food
+166,Wild Willy's,Food,Fast_Food
+167,Jake's Wayback Burgers,Food,Fast_Food
+168,Taco Mama,Food,Fast_Food
+169,King of Wings,Food,Fast_Food
+170,Pretzel Time,Food,Fast_Food
+171,Sarku Japan,Food,Fast_Food
+172,Ivan's Restaurant,Food,Fast_Food
+173,Fuddruckers,Food,Fast_Food
+174,Mandarin Garden,Food,Fast_Food
+175,El Taquito,Food,Fast_Food
+176,Four Burgers,Food,Fast_Food
+177,Penn Station East Coast Subs,Food,Fast_Food
+178,The New Chalet,Food,Fast_Food
+179,Blackjack Pizza,Food,Fast_Food
+180,Gyromania Grill,Food,Fast_Food
+181,Mc Donalds,Food,Fast_Food
+182,Yoshinoya,Food,Fast_Food
+183,China Garden,Food,Fast_Food
+184,Mama's Fried Chicken,Food,Fast_Food
+185,China Restaurant,Food,Fast_Food
+186,Burger Basket,Food,Fast_Food
+187,Lobster Hut,Food,Fast_Food
+188,Ben and Jerry's,Food,Fast_Food
+189,Taco Time,Food,Fast_Food
+190,Mr. Hoagie,Food,Fast_Food
+191,Fazzari's,Food,Fast_Food
+192,Taco John's,Food,Fast_Food
+193,Pizza Inn,Food,Fast_Food
+194,Cousin's Subs,Food,Fast_Food
+195,Fosters Freeze,Food,Fast_Food
+196,Starbucks Coffee,Food,Fast_Food
+197,Carl's Jr.,Food,Fast_Food
+198,Taco Bob's,Food,Fast_Food
+199,White Castle,Food,Fast_Food
+200,Pepperjax Grill,Food,Fast_Food
+201,The Pizza Company,Food,Fast_Food
+202,Joe's Crab Shack,Food,Fast_Food
+203,The Sandwich Place,Food,Fast_Food
+204,Little Caesar's Pizza,Food,Fast_Food
+205,Maid-rite,Food,Fast_Food
+206,Frates Drive-In,Food,Fast_Food
+207,Jim's Steaks,Food,Fast_Food
+208,Gourmet Grill,Food,Fast_Food
+209,Villa Italian Kitchen,Food,Fast_Food
+210,Jacks N Joe,Food,Fast_Food
+211,Wingstop,Food,Fast_Food
+212,Beef Villa,Food,Fast_Food
+213,Tanuki Sushi Bar and Garden,Food,Fast_Food
+214,Old Carolina Barbecue Company,Food,Fast_Food
+215,Flame Broiler,Food,Fast_Food
+216,Kow Thai Take Out,Food,Fast_Food
+217,iSushi,Food,Fast_Food
+218,Shangri-la Chinese Restaurant,Food,Fast_Food
+219,Blackies Hotdog Stand,Food,Fast_Food
+220,Chun Wah Kam Noodle Factory,Food,Fast_Food
+221,Italian Pizzeria Restaurant,Food,Fast_Food
+222,Sakana,Food,Fast_Food
+223,Bubba's Texas Burger Shack,Food,Fast_Food
+224,Ani's Chicken,Food,Fast_Food
+225,Farmer Boys,Food,Fast_Food
+226,Jamba Juice,Food,Fast_Food
+227,Hot Lips Pizza,Food,Fast_Food
+228,Rubio's,Food,Fast_Food
+229,Chicken Mary's,Food,Fast_Food
+230,Fuku,Food,Fast_Food
+231,Little Caesars,Food,Fast_Food
+232,Primo Hoagies,Food,Fast_Food
+233,De Afghanan Kabob House,Food,Fast_Food
+234,Raising Cane's,Food,Fast_Food
+235,Moe's Burger Joint,Food,Fast_Food
+236,Bobby's Burger Palace,Food,Fast_Food
+237,Loving Hut,Food,Fast_Food
+238,Capriotti's Sandwich Shop,Food,Fast_Food
+239,Italian Village Pizza,Food,Fast_Food
+240,Mustard Seed,Food,Fast_Food
+241,Saladworks,Food,Fast_Food
+242,Jim's Steakout,Food,Fast_Food
+243,Charo Chicken,Food,Fast_Food
+244,Huddle House,Food,Fast_Food
+245,Great Wall Restaurant,Food,Fast_Food
+246,Luby's,Food,Fast_Food
+247,Big Island Pizza,Food,Fast_Food
+248,My Daddy's Pizza & Grille,Food,Fast_Food
+249,Boddie Noell Enterprises Inc,Food,Fast_Food
+250,Roma Pizza,Food,Fast_Food
+251,Cafe Paris,Food,Fast_Food
+252,Abruzzi Pizza,Food,Fast_Food
+253,Bistro To Go,Food,Fast_Food
+254,Arthur Treacher's Fish & Chips,Food,Fast_Food
+255,Blimpie,Food,Fast_Food
+256,Tony Wang's Chinese Restaurant,Food,Fast_Food
+257,D & M Subs,Food,Fast_Food
+258,Danielle Inc,Food,Fast_Food
+259,Smithfield's Chicken 'n Bar-b-q,Food,Fast_Food
+260,Jack in the Box -,Food,Fast_Food
+261,Gangnam Style Korean Kitchen,Food,Fast_Food
+262,Red Baron Drive-In,Food,Fast_Food
+263,Which Wich,Food,Fast_Food
+264,Sonic Drive-In,Food,Fast_Food
+265,Sonic Drive in,Food,Fast_Food
+266,Grandy's,Food,Fast_Food
+267,Wolf River Diner,Food,Fast_Food
+268,The Extreme Pita,Food,Fast_Food
+269,Picnic Basket,Food,Fast_Food
+270,Popeyes Louisiana Kitchen,Food,Fast_Food
+271,Natraj's Tandoori,Food,Fast_Food
+272,Acropolis Gyro Palace,Food,Fast_Food
+273,Bennidito's Pizza,Food,Fast_Food
+274,Dick's Hamburgers,Food,Fast_Food
+275,Pick Up Stix,Food,Fast_Food
+276,B Good,Food,Fast_Food
+277,Peach Garden,Food,Fast_Food
+278,Pollo Tropical,Food,Fast_Food
+279,Dominick's Italian Restaurant,Food,Fast_Food
+280,St. Clair Broiler,Food,Fast_Food
+281,Baja Fresh Mexican Grill,Food,Fast_Food
+282,Fatburger,Food,Fast_Food
+283,Charlie's Pizzeria,Food,Fast_Food
+284,Salad Creations,Food,Fast_Food
+285,Price's Chicken Coop,Food,Fast_Food
+286,Jollibee,Food,Fast_Food
+287,Lilly's Restaurant,Food,Fast_Food
+288,Sakura Japanese Restaurant,Food,Fast_Food
+289,Low Chinese American Restaurant,Food,Fast_Food
+290,Johnny's Wife's Place,Food,Fast_Food
+291,Pita's Republic,Food,Fast_Food
+292,Comet Burgers,Food,Fast_Food
+293,Boardwalk Grill,Food,Fast_Food
+294,Henny Penny Family Restaurant,Food,Fast_Food
+295,Dominion Pizza,Food,Fast_Food
+296,Cook St. Helena,Food,Fast_Food
+297,Golden Dragon,Food,Fast_Food
+298,Batter Up,Food,Fast_Food
+299,Quizno's,Food,Fast_Food
+300,ShopHouse Southeast Asian Kitchen,Food,Fast_Food
+301,Mignano Bros,Food,Fast_Food
+302,Backyard Grill,Food,Fast_Food
+303,Gold Star Chili,Food,Fast_Food
+304,Cluck-U Chicken,Food,Fast_Food
+305,Local Burger,Food,Fast_Food
+306,Jon Smith Subs,Food,Fast_Food
+307,Fox's Gourmet Delicatessen,Food,Fast_Food
+308,Great Wraps,Food,Fast_Food
+309,Lin's Garden,Food,Fast_Food
+310,Pretzel Maker,Food,Fast_Food
+311,Penguin Point,Food,Fast_Food
+312,Capri Italian Restaurant,Food,Fast_Food
+313,King Wah,Food,Fast_Food
+314,Regions Bank,Food,Fast_Food
+315,KFC/AW,Food,Fast_Food
+316,McDonalds,Food,Fast_Food
+317,Bojangles,Food,Fast_Food
+318,Taco Bell / KFC,Food,Fast_Food
+319,Arby's - Closed,Food,Fast_Food
+320,Shell,Food,Fast_Food
+321,Carl's Jr. / Green Burrito,Food,Fast_Food
+322,Shamus's Sandwich Shoppe,Food,Fast_Food
+323,Long John Silvers,Food,Fast_Food
+324,Fajita Grill,Food,Fast_Food
+325,George's Gyros Spot 2,Food,Fast_Food
+326,Lakewood Ranch Baptist Church,Food,Fast_Food
+327,China Buffet,Food,Fast_Food
+328,The Grille,Food,Fast_Food
+329,Good Guys Pizza,Food,Fast_Food
+330,Charleys Philly Steaks,Food,Fast_Food
+331,Islands Restaurant,Food,Fast_Food
+332,The Arch at McDonald's Campus Office Building,Food,Fast_Food
+333,Buona Vita,Food,Fast_Food
+334,Rick's Drive In Out,Food,Fast_Food
+335,Johnson's Popcorn,Food,Fast_Food
+336,Popeyes Chicken Biscuits,Food,Fast_Food
+337,Boloco,Food,Fast_Food
+338,Wolf's Dairy Queen,Food,Fast_Food
+339,Sweet Magnolia's Cafe Bakery,Food,Fast_Food
+340,Hardee's / Red Burrito,Food,Fast_Food
+341,Great American Hamburger Pie Co,Food,Fast_Food
+342,Golden Harvest Chinese Restaurant,Food,Fast_Food
+343,The Flame Broiler,Food,Fast_Food
+344,Penn's Thai Cafe,Food,Fast_Food
+345,Rally's Hamburgers,Food,Fast_Food
+346,Long John Silver's / AW,Food,Fast_Food
+347,Mcdonalds Whitehouse,Food,Fast_Food
+348,Captain D's,Food,Fast_Food
+349,Burger King/Popeyes,Food,Fast_Food
+350,KFC/Taco Bell,Food,Fast_Food
+351,Carl's Jr / Green Burrito,Food,Fast_Food
+352,Bob Evans Restaurant,Food,Fast_Food
+353,El Original,Food,Fast_Food
+354,Old Country Buffet,Food,Fast_Food
+355,Arbys,Food,Fast_Food
+356,Fazoli's,Food,Fast_Food
+357,Los Cotijas Taco Shop,Food,Fast_Food
+358,Hardees,Food,Fast_Food
+359,Photo's Hot Dogs,Food,Fast_Food
+360,Mr Hero,Food,Fast_Food
+361,T-Mobile,Food,Fast_Food
+362,Marathon,Food,Fast_Food
+363,Jimmy Johns,Food,Fast_Food
+364,Errandbug Fast Restaurant Delivery,Food,Fast_Food
+365,Legendz,Food,Fast_Food
+366,Lion's Choice,Food,Fast_Food
+367,Mcdonald's,Food,Fast_Food
+368,Adobe Cantina Salsa,Food,Fast_Food
+369,Orange Julius,Food,Fast_Food
+370,Kasa's Pizza,Food,Fast_Food
+371,The Dog Pit,Food,Fast_Food
+372,Great Bend Taco,Food,Fast_Food
+373,Riviera D'Italia,Food,Fast_Food
+374,Charlie's Restaurant,Food,Fast_Food
+375,Burrito Bros.,Food,Fast_Food
+376,Dunkin Donuts,Food,Fast_Food
+377,Best Gyros,Food,Fast_Food
+378,Steele Pier Hotdogs,Food,Fast_Food
+379,Wendy's Valenti Management,Food,Fast_Food
+380,Skyline Chili,Food,Fast_Food
+381,Tropicana Pizza,Food,Fast_Food
+382,VeganBurg,Food,Fast_Food
+383,Smashburger,Food,Fast_Food
+384,Moe's Cafe,Food,Fast_Food
+385,Vista Drive In,Food,Fast_Food
+386,China City,Food,Fast_Food
+387,Blake's Lotaburger,Food,Fast_Food
+388,Belleria Pizzeria,Food,Fast_Food
+389,Pal's Sudden Service,Food,Fast_Food
+390,Tiffin,Food,Fast_Food
+391,Baker's Drive-thru,Food,Fast_Food
+392,High Tech Burrito,Food,Fast_Food
+393,Parkside Gyros,Food,Fast_Food
+394,Dairy Heaven,Food,Fast_Food
+395,Cobani Gyro Kebab,Food,Fast_Food
+396,Zaxby's,Food,Fast_Food
+397,Au Bon Pain,Food,Fast_Food
+398,East of Edens,Food,Fast_Food
+399,Chipotle,Food,Fast_Food
+400,Grand China Chinese Restaurant,Food,Fast_Food
+401,Taco Del Mar,Food,Fast_Food
+402,Pizza Pipeline,Food,Fast_Food
+403,Richard's Pizza,Food,Fast_Food
+404,The Corner Cafe,Food,Fast_Food
+405,Maki Fresh,Food,Fast_Food
+406,Fat Boy Burgers,Food,Fast_Food
+407,Flying J,Food,Fast_Food
+408,Extreme Pita,Food,Fast_Food
+409,Git-It-N-Git,Food,Fast_Food
+410,GD Bro Burger,Food,Fast_Food
+411,Hometown Buffet,Food,Fast_Food
+412,Ryan's,Food,Fast_Food
+413,Smoothie King,Food,Fast_Food
+414,Famous Dave's,Food,Fast_Food
+415,Sunrise Gyros,Food,Fast_Food
+416,Zankou Chicken,Food,Fast_Food
+417,Rascal's Teriyaki Grill,Food,Fast_Food
+418,Ay Jalisco,Food,Fast_Food
+419,BURGERFI,Food,Fast_Food
+420,Rallys,Food,Fast_Food
+421,Zaxby's Chicken Fingers & Buffalo Wings,Food,Fast_Food
+422,Gyros Express,Food,Fast_Food
+423,Super Wings,Food,Fast_Food
+424,Roche Bros.,Food,Fast_Food
+425,TheMINT Gastropub,Food,Fast_Food
+426,California Tortilla,Food,Fast_Food
+427,Thai Delight,Food,Fast_Food
+428,Bristol 45 Diner,Food,Fast_Food
+429,Sheetz,Food,Fast_Food
+430,Frankies,Food,Fast_Food
+431,Togi's Sub Station,Food,Fast_Food
+432,Citizen Burger Bar,Food,Fast_Food
+433,Tropical Smoothie Cafe,Food,Fast_Food
+434,Papa Joe's Pizza,Food,Fast_Food
+435,HiBoy Drive-in,Food,Fast_Food
+436,El Ranchito Taco Shop,Food,Fast_Food
+437,Bush's Chicken,Food,Fast_Food
+438,Hilton Boston Logan Airport,Food,Fast_Food
+439,Festival Eatery,Food,Fast_Food
+440,Patrick's on Third,Food,Fast_Food
+441,Mason's Famous Lobster Rolls,Food,Fast_Food
+442,Burger House,Food,Fast_Food
+443,Pollo Campero,Food,Fast_Food
+444,All About Burger,Food,Fast_Food
+445,Nathan's Famous,Food,Fast_Food
+446,The Swinging Door,Food,Fast_Food
+447,Long John Silvers / A&W,Food,Fast_Food
+448,Wetzel's Pretzels,Food,Fast_Food
+449,Clambake Seafood Restaurant,Food,Fast_Food
+450,BeanThru,Food,Fast_Food
+451,Taco Bell/KFC,Food,Fast_Food
+452,Cafe Zona Rosa,Food,Fast_Food
+453,Papa Gyros,Food,Fast_Food
+454,Checker's Pizza,Food,Fast_Food
+455,Chinatown Inn,Food,Fast_Food
+456,Kum & Go,Food,Fast_Food
+457,PDQ,Food,Fast_Food
+458,Ray J's American Grill,Food,Fast_Food
+459,New York Pizza Department,Food,Fast_Food
+460,Fashion Cafe,Food,Fast_Food
+461,Qdoba Mexican Grill,Food,Fast_Food
+462,Tam's Burgers,Food,Fast_Food
+463,CD's Wings,Food,Fast_Food
+464,McDonald's of Rolesville,Food,Fast_Food
+465,A&W/Long John Silvers,Food,Fast_Food
+466,Captain D's Seafood,Food,Fast_Food
+467,Wawa,Food,Fast_Food
+468,Popeyes Chicken & Biscuits,Food,Fast_Food
+469,Westchester Burger Company,Food,Fast_Food
+470,Raising Canes,Food,Fast_Food
+471,Mcdonalds,Food,Fast_Food
+472,Panda Express Innovation Kitchen,Food,Fast_Food
+473,Chicken Kitchen,Food,Fast_Food
+474,Jim Bob's Chicken Fingers,Food,Fast_Food
+475,Country Buffet,Food,Fast_Food
+476,Petro's Chili & Chips,Food,Fast_Food
+477,QDOBA Mexican Eats,Food,Fast_Food
+478,California Chicken Cafe,Food,Fast_Food
+479,Blue Coast Burrito,Food,Fast_Food
+480,Lake Trout 2,Food,Fast_Food
+481,Happy Dragon,Food,Fast_Food
+482,Flaming Grill and Buffet,Food,Fast_Food
+483,Oscar's Restaurant,Food,Fast_Food
+484,Mooney's Ice Cream Store,Food,Fast_Food
+485,Cozumel,Food,Fast_Food
+486,Cremo Drive-In,Food,Fast_Food
+487,Jalsa Indian Fast Food,Food,Fast_Food
+488,La Hacienda Mexican Restaurant,Food,Fast_Food
+489,Flushing A,Food,Fast_Food
+490,Halo Burger,Food,Fast_Food
+491,Ocean Empire Restaurant,Food,Fast_Food
+492,Kismet,Food,Fast_Food
+493,Miguel's Jr,Food,Fast_Food
+494,Mickey's Gyros & Ribs,Food,Fast_Food
+495,Pilot Travel Center,Food,Fast_Food
+496,Fratellos Hot Dogs,Food,Fast_Food
+497,Taco Bell/Pizza Hut,Food,Fast_Food
+498,Burger King¬Æ,Food,Fast_Food
+499,Fast Eddie's MOAB,Food,Fast_Food
+500,Lupo's Char-Pit,Food,Fast_Food
+501,Original Tommy's Hamburgers,Food,Fast_Food
+502,Wienerschitzel,Food,Fast_Food
+503,Jack's Goal Line Stand,Food,Fast_Food
+504,b.good,Food,Fast_Food
+505,Bucky's Family Restaurant,Food,Fast_Food
+506,Little Italy,Food,Fast_Food
+507,Sam's Pizza Restaurant,Food,Fast_Food
+508,Hobo's Korner Kitchen,Food,Fast_Food
+509,Mangia Pizza,Food,Fast_Food
+510,Carl's Jr. / The Green Burrito,Food,Fast_Food
+511,Jason's Deli,Food,Fast_Food
+512,Andy's Frozen Custard,Food,Fast_Food
+513,Portillo's,Food,Fast_Food
+514,Johnny Rockets,Food,Fast_Food
+515,Taqueria,Food,Fast_Food
+516,Umami Burger,Food,Fast_Food
+517,King Gyros,Food,Fast_Food
+518,Five Guys Burgers And Fries,Food,Fast_Food
+519,KFC/Long John Silvers,Food,Fast_Food
+520,Zio's Italian Kitchen,Food,Fast_Food
+521,Auntie Anne's,Food,Fast_Food
+522,Walmart Supercenter,Food,Fast_Food
+523,Jimmy's Grotto,Food,Fast_Food
+524,Eegee's,Food,Fast_Food
+525,Earth Fare,Food,Fast_Food
+526,B&D Burgers,Food,Fast_Food
+527,Nick's Gyros,Food,Fast_Food
+528,90 Miles Cuban Cafe,Food,Fast_Food
+529,Tonys Pizza,Food,Fast_Food
+530,Sesame Burgers & Beer,Food,Fast_Food
+531,Braum's,Food,Fast_Food
+532,Hon Lin Restaurant,Food,Fast_Food
+533,Popeye's Louisiana Kitchen,Food,Fast_Food
+534,McDonalds's,Food,Fast_Food
+535,Mah's Garden Restaurant,Food,Fast_Food
+536,Dairy Queen (Treat Only),Food,Fast_Food
+537,Five Guys Burgers Fries,Food,Fast_Food
+538,Megs Drive In,Food,Fast_Food
+539,The Hotdog Shoppe,Food,Fast_Food
+540,Kumagoro Fine Japanese Restaurant and Sushi Bar,Food,Fast_Food
+541,Wingstop Restaurant,Food,Fast_Food
+542,Whipper's Pizza,Food,Fast_Food
+543,Kim's Oriental Kitchen,Food,Fast_Food
+544,Chinatown Express,Food,Fast_Food
+545,Old Mill Crab House,Food,Fast_Food
+546,Mr Taco,Food,Fast_Food
+547,The 50's Cafe,Food,Fast_Food
+548,Papa J's,Food,Fast_Food
+549,Jack In The Box,Food,Fast_Food
+550,Wise Guys A Chicago Eatery,Food,Fast_Food
+551,Sonic America's Drive-In,Food,Fast_Food
+552,Heff's Burgers,Food,Fast_Food
+553,El Pollo Regio,Food,Fast_Food
+554,El Sombrero,Food,Fast_Food
+555,Genghis Grill,Food,Fast_Food
+556,Palio's Pizza Cafe,Food,Fast_Food
+557,Ly's Cafe,Food,Fast_Food
+558,Poki Roll,Food,Fast_Food
+559,Sub Conscious,Food,Fast_Food
+560,Bad Daddy's Burger Bar,Food,Fast_Food
+561,Kosta's Gyros,Food,Fast_Food
+562,Bell's Pizza,Food,Fast_Food
+563,The Hat,Food,Fast_Food
+564,Don & Millie's,Food,Fast_Food
+565,PepperJax Grill,Food,Fast_Food
+566,Ben & Jerry's,Food,Fast_Food
+567,Mr. Gyros Greek Food & Pastry,Food,Fast_Food
+568,Legends Burgers,Food,Fast_Food
+569,Plato's Closet,Food,Fast_Food
+570,Stoko's,Food,Fast_Food
+572,Starbucks,Food,Fast_Food
+577,Dunkin' (formerly Dunkin' Donuts),Food,Fast_Food
+580,KFC (Kentucky Fried Chicken),Food,Fast_Food
+594,Hardee's / Carl's Jr.,Food,Fast_Food
+595,Papa John's,Food,Fast_Food
+599,Krispy Kreme,Food,Fast_Food
+601,Tim Hortons,Food,Fast_Food
+608,Checkers / Rally's,Food,Fast_Food
+610,Blaze Pizza,Food,Fast_Food
+614,Noodles & Company,Food,Fast_Food
+619,MOD Pizza,Food,Fast_Food
+622,Dairy Queen / Orange Julius,Food,Fast_Food
+623,The Cheesecake Factory,Food,Fast_Food
+625,Cinnabon,Food,Fast_Food
+626,Red Lobster,Food,Fast_Food
+627,Olive Garden,Food,Fast_Food
+628,Applebees,Food,Fast_Food
+629,Outback Steakhouse,Food,Fast_Food
+630,Buffalo Wild Wings,Food,Fast_Food
+631,Dave & Buster's,Food,Fast_Food
+662,IHOP (International House of Pancakes),Food,Fast_Food
+663,Chili's Grill & Bar,Food,Fast_Food
+664,P.F. Chang's,Food,Fast_Food
+665,Red Robin,Food,Fast_Food
+666,TGI Fridays,Food,Fast_Food
+667,Cheesecake Factory,Food,Fast_Food
+668,BJ's Restaurant & Brewhouse,Food,Fast_Food
+670,Texas Roadhouse,Food,Fast_Food
+671,Cracker Barrel,Food,Fast_Food
+672,Ruby Tuesday,Food,Fast_Food
+675,Denny's,Food,Fast_Food
+676,Golden Corral,Food,Fast_Food
+678,Maggiano's Little Italy,Food,Fast_Food
+679,Bonefish Grill,Food,Fast_Food
+680,Hard Rock Cafe,Food,Fast_Food
+681,O'Charley's,Food,Fast_Food
+682,Perkins Restaurant & Bakery,Food,Fast_Food
+683,Sizzler,Food,Fast_Food
+684,Uno Pizzeria & Grill,Food,Fast_Food
+686,Corner Bakery Cafe,Food,Fast_Food
+688,First Watch,Food,Fast_Food
+689,Mellow Mushroom,Food,Fast_Food
+690,Pei Wei Asian Diner,Food,Fast_Food
+695,Brio Tuscan Grille,Food,Fast_Food
+701,Dickey's Barbecue Pit,Food,Fast_Food
+702,Rubio's Coastal Grill,Food,Fast_Food
+704,Baja Fresh,Food,Fast_Food
+707,Naf Naf Grill,Food,Fast_Food
+708,Salata,Food,Fast_Food
+711,Zoes Kitchen,Food,Fast_Food
+712,Freddy's Frozen Custard & Steakburgers,Food,Fast_Food
+716,Peet's Coffee,Food,Fast_Food
+717,Potbelly Sandwich Shop,Food,Fast_Food
+718,Einstein Bros. Bagels,Food,Fast_Food
+720,Cold Stone Creamery,Food,Fast_Food
+724,Dutch Bros. Coffee,Food,Fast_Food
+725,The Coffee Bean & Tea Leaf,Food,Fast_Food
+726,Scooter's Coffee,Food,Fast_Food
+727,Caribou Coffee,Food,Fast_Food
+728,Biggby Coffee,Food,Fast_Food
+729,PJ's Coffee,Food,Fast_Food
+730,Gloria Jean's Coffees,Food,Fast_Food
+731,La Colombe Coffee Roasters,Food,Fast_Food
+732,It's A Grind Coffee House,Food,Fast_Food
+733,Maui Wowi Hawaiian,Food,Fast_Food
+734,Dunn Brothers Coffee,Food,Fast_Food
+735,The Human Bean,Food,Fast_Food
+736,Bad Ass Coffee,Food,Fast_Food
+738,Port City Java,Food,Fast_Food

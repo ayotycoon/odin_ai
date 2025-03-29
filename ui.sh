@@ -1,0 +1,1 @@
+PYTHONPATH=$(pwd) python main/watcher.py streamlit

@@ -1,0 +1,731 @@
+,Unnamed: 0,Given category,Given sub_category,Category,Sub_Category,brand,type
+7,7,Beauty & Hygiene,Fragrances & Deos,,,Paco Rabanne,Eau De Parfum
+15,16,Beauty & Hygiene,Skin Care,,,BodyHerbals,Face Care
+22,24,Beauty & Hygiene,Hair Care,,,Godrej Anoop,Hair Oil & Serum
+43,57,Beauty & Hygiene,Feminine Hygiene,,,Plush,Intimate Wash & Care
+45,59,Cleaning & Household,Fresheners & Repellents,,,Good knight,Mosquito Repellent
+50,68,Beauty & Hygiene,Feminine Hygiene,,,Peesafe,Sanitary Napkins
+52,72,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Health Potion,Pet Meals & Treats
+56,79,Beauty & Hygiene,Hair Care,,,Mamaearth,Hair Oil & Serum
+66,95,Beauty & Hygiene,Health & Medicine,,,BTN Sports,Supplements & Proteins
+67,96,Beauty & Hygiene,Health & Medicine,,,IN2,Supplements & Proteins
+70,102,Beauty & Hygiene,Fragrances & Deos,,,Ajmal,Attar
+78,114,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Wai Wai,Instant Noodles
+85,124,Cleaning & Household,Pooja Needs,,,Liberty,"Agarbatti, Incense Sticks"
+86,125,Beauty & Hygiene,Fragrances & Deos,,,Guess,Eau De Toilette
+88,128,"Kitchen, Garden & Pets",Storage & Accessories,,,Fendo,Umbrella
+117,192,Beauty & Hygiene,Bath & Hand Wash,,,Dr Rhazes,Hand Wash & Sanitizers
+120,200,Beauty & Hygiene,Skin Care,,,Bronson Professional,Face Care
+121,201,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,MAGGI ,Instant Noodles
+122,202,"Kitchen, Garden & Pets",Appliances & Electricals,,,Milltec,Battery & Electrical
+125,206,Beauty & Hygiene,Health & Medicine,,,Seni,Adult Diapers
+127,209,Beauty & Hygiene,Skin Care,,,Astaberry,Face Care
+128,210,Beauty & Hygiene,Skin Care,,,Joy,Face Care
+129,211,Beauty & Hygiene,Skin Care,,,The Moms Co,Body Care
+132,223,Beauty & Hygiene,Men's Grooming,,,Cinthol,Moustache & Beard Care
+134,228,Beauty & Hygiene,Men's Grooming,,,Set Wet,Hair Care & Styling
+139,238,Cleaning & Household,Fresheners & Repellents,,,Mortein,Insect Repellent
+147,255,Beauty & Hygiene,Bath & Hand Wash,,,Panache,Bathing Accessories
+155,286,Baby Care,Feeding & Nursing,,,Chicco,Baby Dishes & Utensils
+158,291,Beauty & Hygiene,Skin Care,,,Botanica,Face Care
+166,303,Beauty & Hygiene,Skin Care,,,Vlcc,Face Care
+169,307,Beauty & Hygiene,Skin Care,,,Organic Harvest,Face Care
+170,308,Beauty & Hygiene,Hair Care,,,Kaiv,Tools & Accessories
+172,310,Beauty & Hygiene,Bath & Hand Wash,,,Aroma Magic ,Shower Gel & Body Wash
+173,314,Beauty & Hygiene,Skin Care,,,Nutrinorm,Face Care
+174,315,Beauty & Hygiene,Men's Grooming,,,Red Hunt,Bath & Shower
+176,318,Cleaning & Household,Stationery,,,Stationari+,"Notebooks, Files, Folders"
+188,336,Cleaning & Household,Pooja Needs,,,Shalimar,"Agarbatti, Incense Sticks"
+190,339,"Kitchen, Garden & Pets",Kitchen Accessories,,,Fackelmann,Choppers & Graters
+191,340,Beauty & Hygiene,Skin Care,,,It's Skin,Face Care
+192,342,Beverages,"Health Drink, Supplement",,,Bournvita,Kids (5+Yrs)
+197,347,Cleaning & Household,Stationery,,,Paperkraft,"Notebooks, Files, Folders"
+203,366,Beauty & Hygiene,Skin Care,,,Kaya Clinic,Face Care
+219,387,Beauty & Hygiene,Men's Grooming,,,Spruce Shave Club,Shaving Care
+223,394,Cleaning & Household,Stationery,,,Kaadoo,Games & Calculators
+224,395,Beauty & Hygiene,Hair Care,,,Loreal Paris,Shampoo & Conditioner
+227,400,Cleaning & Household,Stationery,,,Nataraj,Erasers & Sharpeners
+230,407,Beauty & Hygiene,Men's Grooming,,,Gillette,Shaving Care
+233,415,Beauty & Hygiene,Hair Care,,,Emami,Hair Oil & Serum
+234,417,Beauty & Hygiene,Hair Care,,,Morpheme Remedies,Hair Oil & Serum
+235,418,Beverages,"Health Drink, Supplement",,,Pediasure,Kids (5+Yrs)
+236,420,Beauty & Hygiene,Men's Grooming,,,Man Arden,Face & Body
+241,430,Beauty & Hygiene,Skin Care,,,Lakme,Face Care
+244,435,Beverages,"Health Drink, Supplement",,,Enfagrow,Children (2-5 Yrs)
+254,450,Cleaning & Household,Stationery,,,Papergrid,"Notebooks, Files, Folders"
+257,459,Cleaning & Household,Stationery,,,Camlin,"Notebooks, Files, Folders"
+264,476,Beauty & Hygiene,Health & Medicine,,,Kerala Ayurveda,Ayurveda
+265,479,Beauty & Hygiene,Hair Care,,,LOreal Professionnel,Hair & Scalp Treatment
+276,506,Beauty & Hygiene,Health & Medicine,,,Prabhat,Everyday Medicine
+278,513,Beauty & Hygiene,Health & Medicine,,,Tulips,Cotton & Ear Buds
+279,514,Cleaning & Household,Stationery,,,Doms,Colours & Crayons
+280,516,"Kitchen, Garden & Pets",Storage & Accessories,,,Asian,Containers Sets
+284,523,Beauty & Hygiene,Health & Medicine,,,Meghdoot,Ayurveda
+287,532,Beauty & Hygiene,Men's Grooming,,,Qraa Men,Face & Body
+297,548,Beauty & Hygiene,Men's Grooming,,,USTRAA,Face & Body
+299,552,Beauty & Hygiene,Men's Grooming,,,Nivea Men,Face & Body
+300,553,Beauty & Hygiene,Skin Care,,,Natures Essence,Face Care
+301,554,Beauty & Hygiene,Men's Grooming,,,The Man Company,Face & Body
+302,555,Beauty & Hygiene,Men's Grooming,,,Garnier Men,Face & Body
+306,576,Beauty & Hygiene,Skin Care,,,Vegetal,Face Care
+309,581,Cleaning & Household,Stationery,,,Pidilite,Games & Calculators
+312,585,Beauty & Hygiene,Health & Medicine,,,FAST&UP,Supplements & Proteins
+313,588,Beauty & Hygiene,Skin Care,,,RawNature,Face Care
+314,589,Beauty & Hygiene,Skin Care,,,Oriental Botanics,Face Care
+315,590,Beauty & Hygiene,Men's Grooming,,,Beardo,Bath & Shower
+320,601,Beauty & Hygiene,Skin Care,,,Aloe Veda,Face Care
+321,602,Beauty & Hygiene,Men's Grooming,,,Bombay Shaving Company,Bath & Shower
+323,605,Beauty & Hygiene,Skin Care,,,Khadi Meghdoot ,Face Care
+327,620,Beauty & Hygiene,Skin Care,,,Aroma Treasures,Face Care
+329,624,Beauty & Hygiene,Men's Grooming,,,QRAA,Face & Body
+331,630,Cleaning & Household,Fresheners & Repellents,,,Renew Air,Air Freshener
+341,655,Beauty & Hygiene,Skin Care,,,Natures Organic,Face Care
+348,677,Beauty & Hygiene,Bath & Hand Wash,,,Savlon,Hand Wash & Sanitizers
+350,688,Beauty & Hygiene,Men's Grooming,,,Himalaya Men,Face & Body
+351,694,Beauty & Hygiene,Health & Medicine,,,Charak,Ayurveda
+355,710,Beauty & Hygiene,Health & Medicine,,,Doctor's Choice ,Adult Diapers
+357,712,Beauty & Hygiene,Health & Medicine,,,Friends,Adult Diapers
+363,729,Beauty & Hygiene,Health & Medicine,,,Kare Med,Adult Diapers
+372,751,Beauty & Hygiene,Health & Medicine,,,Depend,Adult Diapers
+373,752,Beauty & Hygiene,Hair Care,,,Pantene,Shampoo & Conditioner
+375,756,Beauty & Hygiene,Feminine Hygiene,,,STAYFREE,Sanitary Napkins
+376,759,Beauty & Hygiene,Bath & Hand Wash,,,Boroplus,Hand Wash & Sanitizers
+378,761,Beauty & Hygiene,Skin Care,,,Just Herbs,Face Care
+381,766,Beauty & Hygiene,Bath & Hand Wash,,,Trust,Hand Wash & Sanitizers
+386,774,Beauty & Hygiene,Skin Care,,,Glow & Lovely,Face Care
+387,775,Beauty & Hygiene,Health & Medicine,,,Amrutanjan,Antiseptics & Bandages
+390,780,Beauty & Hygiene,Hair Care,,,Parachute ,Hair Oil & Serum
+401,805,Beauty & Hygiene,Bath & Hand Wash,,,K.P. Namboodiris,Bathing Bars & Soaps
+404,809,Cleaning & Household,Fresheners & Repellents,,,Godrej,Air Freshener
+414,830,Beauty & Hygiene,Fragrances & Deos,,,Maryaj,Eau De Parfum
+417,838,Beauty & Hygiene,Men's Grooming,,,Axe,Shaving Care
+418,841,Beauty & Hygiene,Men's Grooming,,,Old Spice,Shaving Care
+419,843,Beauty & Hygiene,Men's Grooming,,,Brut,Shaving Care
+421,847,Beauty & Hygiene,Feminine Hygiene,,,Jeva,Hair Removal
+422,848,Beauty & Hygiene,Skin Care,,,Plum,Body Care
+423,852,Cleaning & Household,Pooja Needs,,,Gou Ganga,"Agarbatti, Incense Sticks"
+426,857,Cleaning & Household,Pooja Needs,,,Cycle,"Agarbatti, Incense Sticks"
+427,858,Cleaning & Household,Pooja Needs,,,Soft Touch,"Agarbatti, Incense Sticks"
+441,894,Cleaning & Household,Pooja Needs,,,Yashoda ,"Agarbatti, Incense Sticks"
+442,895,Cleaning & Household,Pooja Needs,,,ULLAS VIVIDHA,"Agarbatti, Incense Sticks"
+445,902,Cleaning & Household,Pooja Needs,,,Shubhkart,Other Pooja Needs
+447,905,Beauty & Hygiene,Skin Care,,,Jergens,Body Care
+450,912,Beauty & Hygiene,Skin Care,,,Ponds,Eye Care
+453,919,Beauty & Hygiene,Skin Care,,,Olay,Face Care
+455,925,Beauty & Hygiene,Fragrances & Deos,,,Dorall Collection,Eau De Toilette
+457,933,Beauty & Hygiene,Skin Care,,,Glamveda,Face Care
+459,937,Beauty & Hygiene,Skin Care,,,Globus,Face Care
+460,939,Beauty & Hygiene,Bath & Hand Wash,,,ZM LABS,Hand Wash & Sanitizers
+463,953,Beauty & Hygiene,Health & Medicine,,,Durex,Sexual Wellness
+464,954,Cleaning & Household,Fresheners & Repellents,,,Wonder Fresh ,Air Freshener
+468,958,Cleaning & Household,Fresheners & Repellents,,,Hi-Fresh,Air Freshener
+474,969,Cleaning & Household,Fresheners & Repellents,,,Kuxuna,Air Freshener
+475,976,Cleaning & Household,Fresheners & Repellents,,,Odonil ,Air Freshener
+477,979,Cleaning & Household,Fresheners & Repellents,,,Glade,Air Freshener
+479,982,Cleaning & Household,Fresheners & Repellents,,,CamPure,Camphor & Wicks
+482,992,Cleaning & Household,Fresheners & Repellents,,,Air wick,Air Freshener
+483,997,"Kitchen, Garden & Pets",Storage & Accessories,,,Laplast,Containers Sets
+489,1030,Beauty & Hygiene,Health & Medicine,,,Bixa Botanical,Ayurveda
+490,1031,Cleaning & Household,Pooja Needs,,,Moksh,"Agarbatti, Incense Sticks"
+491,1033,Beauty & Hygiene,Hair Care,,,Akshara Herbals,Hair Oil & Serum
+492,1037,Beauty & Hygiene,Bath & Hand Wash,,,Bodyguard,Hand Wash & Sanitizers
+494,1042,"Kitchen, Garden & Pets",Storage & Accessories,,,JOYO,Containers Sets
+498,1051,"Kitchen, Garden & Pets",Appliances & Electricals,,,Panasonic,Battery & Electrical
+502,1064,"Kitchen, Garden & Pets",Appliances & Electricals,,,Energizer,Battery & Electrical
+512,1102,Beauty & Hygiene,Skin Care,,,The Face Shop,Face Care
+514,1112,Beauty & Hygiene,Feminine Hygiene,,,Carmesi,Panty Liners
+517,1118,Cleaning & Household,Fresheners & Repellents,,,All Out,Mosquito Repellent
+518,1119,Cleaning & Household,Stationery,,,Classmate,"Notebooks, Files, Folders"
+519,1120,"Kitchen, Garden & Pets",Storage & Accessories,,,All Time,Containers Sets
+527,1138,Baby Care,Baby Bath & Hygiene,,,Mothercare ,Baby Bath
+528,1144,Beauty & Hygiene,Fragrances & Deos,,,Enchanteur,Body Sprays & Mists
+530,1146,Beauty & Hygiene,Hair Care,,,Sunsilk,Shampoo & Conditioner
+532,1150,Beauty & Hygiene,Bath & Hand Wash,,,Shahnaz Husain,Shower Gel & Body Wash
+534,1153,Beauty & Hygiene,Skin Care,,,INATUR ,Body Care
+542,1182,Beauty & Hygiene,Skin Care,,,ST. D'VENCE,Aromatherapy
+544,1189,Beauty & Hygiene,Hair Care,,,Hamdard,Hair Oil & Serum
+545,1190,Beauty & Hygiene,Hair Care,,,Wells,Hair Oil & Serum
+550,1208,Beauty & Hygiene,Skin Care,,,Lotus Herbals,Face Care
+552,1213,Beauty & Hygiene,Skin Care,,,Iba,Face Care
+553,1214,Beauty & Hygiene,Skin Care,,,Globus Naturals,Body Care
+554,1220,Beauty & Hygiene,Skin Care,,,Green Leaf,Body Care
+560,1239,Beauty & Hygiene,Skin Care,,,Aloederm,Face Care
+569,1267,Beauty & Hygiene,Skin Care,,,Vaadi,Face Care
+572,1274,Beauty & Hygiene,Skin Care,,,Body Cupid,Body Care
+579,1295,Beauty & Hygiene,Skin Care,,,Satinance,Face Care
+580,1298,Beauty & Hygiene,Hair Care,,,Dabur Amla,Hair Oil & Serum
+581,1299,Beauty & Hygiene,Skin Care,,,TJORI,Body Care
+582,1300,Beauty & Hygiene,Health & Medicine,,,Brimune,Supplements & Proteins
+583,1302,Beauty & Hygiene,Health & Medicine,,,Baidyanath,Ayurveda
+585,1307,Beauty & Hygiene,Feminine Hygiene,,,Gillette Venus,Hair Removal
+587,1313,Beauty & Hygiene,Skin Care,,,SSCPL HERBALS,Face Care
+591,1319,Beauty & Hygiene,Skin Care,,,Khadi Natural,Face Care
+593,1328,Beauty & Hygiene,Skin Care,,,Banjara's,Face Care
+600,1338,Beauty & Hygiene,Skin Care,,,Bionova,Face Care
+607,1357,Beauty & Hygiene,Skin Care,,,Wow Skin Science,Face Care
+609,1359,Beauty & Hygiene,Health & Medicine,,,ORGANIC INDIA,Supplements & Proteins
+610,1360,Beauty & Hygiene,Health & Medicine,,,Desi Utthana,Supplements & Proteins
+611,1363,Beauty & Hygiene,Health & Medicine,,,Muniyal Ayurveda,Ayurveda
+612,1365,Beauty & Hygiene,Fragrances & Deos,,,Skinn by Titan,Perfume
+615,1377,Beauty & Hygiene,Fragrances & Deos,,,J Del Pozo,Eau De Toilette
+616,1380,Beauty & Hygiene,Fragrances & Deos,,,Nike,Eau De Toilette
+620,1397,Beauty & Hygiene,Health & Medicine,,,Sri Sri Tattva,Ayurveda
+631,1441,Beauty & Hygiene,Health & Medicine,,,Akiva,Supplements & Proteins
+635,1455,Beauty & Hygiene,Health & Medicine,,,Maharishi Ayurveda ,Ayurveda
+646,1494,Cleaning & Household,Pooja Needs,,,Mangaldeep,"Agarbatti, Incense Sticks"
+649,1503,Beauty & Hygiene,Fragrances & Deos,,,Creation Lamis,Eau De Parfum
+651,1509,Beauty & Hygiene,Skin Care,,,Sri Sri Ayurveda ,Face Care
+662,1543,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Pet king,Pet Collars & Leashes
+667,1581,Beauty & Hygiene,Skin Care,,,Lever Ayush,Face Care
+668,1585,"Kitchen, Garden & Pets",Kitchen Accessories,,,NNF,Kitchen Tools & Other Accessories
+672,1610,Beauty & Hygiene,Skin Care,,,Shankara,Face Care
+676,1622,Beauty & Hygiene,Skin Care,,,Mirabelle,Face Care
+677,1631,Beauty & Hygiene,Feminine Hygiene,,,Sofy,Sanitary Napkins
+680,1638,Beauty & Hygiene,Skin Care,,,Vaseline,Body Care
+681,1641,Beauty & Hygiene,Bath & Hand Wash,,,Hygienix,Hand Wash & Sanitizers
+682,1645,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Wahl,Pet Cleaning & Grooming
+683,1648,Beauty & Hygiene,Hair Care,,,Head & shoulders,Shampoo & Conditioner
+685,1657,Beauty & Hygiene,Feminine Hygiene,,,Fem,Hair Removal
+687,1661,Beauty & Hygiene,Health & Medicine,,,Ring Guard,Everyday Medicine
+692,1679,Beauty & Hygiene,Hair Care,,,Mediker,Hair Oil & Serum
+696,1717,Cleaning & Household,Fresheners & Repellents,,,HIT,Insect Repellent
+710,1793,Beauty & Hygiene,Health & Medicine,,,SIDDHAYU,Ayurveda
+715,1828,Beauty & Hygiene,Skin Care,,,Olivia,Face Care
+716,1831,"Kitchen, Garden & Pets",Storage & Accessories,,,Steelo Sunpet,Water & Fridge Bottles
+724,1863,Beauty & Hygiene,Fragrances & Deos,,,Bvlgari,Body Sprays & Mists
+729,1893,Beauty & Hygiene,Bath & Hand Wash,,,XPEL,Shower Gel & Body Wash
+733,1919,Beauty & Hygiene,Fragrances & Deos,,,All Good Scents,Gift Sets
+739,1948,Beauty & Hygiene,Skin Care,,,Love Beauty & Planet,Body Care
+744,1961,Beauty & Hygiene,Skin Care,,,Do Bandar,Body Care
+746,1966,Beauty & Hygiene,Health & Medicine,,,Herbal Hills,Supplements & Proteins
+748,1968,Cleaning & Household,Stationery,,,Apsara,"Pen, Pencils"
+754,1981,Cleaning & Household,Stationery,,,Faber castell,Colours & Crayons
+767,2020,Beauty & Hygiene,Health & Medicine,,,Vedapure,Ayurveda
+768,2024,Beauty & Hygiene,Health & Medicine,,,Upakarma,Supplements & Proteins
+774,2041,Beauty & Hygiene,Health & Medicine,,,Nxtgen Ayurveda,Supplements & Proteins
+782,2068,Cleaning & Household,Stationery,,,Luxor,"Pen, Pencils"
+783,2073,"Kitchen, Garden & Pets",Storage & Accessories,,,Nouvetta,Water & Fridge Bottles
+785,2085,"Kitchen, Garden & Pets",Kitchen Accessories,,,Kvg,Kitchen Tools & Other Accessories
+786,2086,"Kitchen, Garden & Pets",Kitchen Accessories,,,Crystal,Kitchen Tools & Other Accessories
+788,2090,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Top Ramen ,Instant Noodles
+789,2091,Beauty & Hygiene,Fragrances & Deos,,,Neesh,Eau De Parfum
+794,2118,Beauty & Hygiene,Hair Care,,,Godrej Professional,Hair & Scalp Treatment
+802,2155,Beauty & Hygiene,Skin Care,,,Natural Vibes,Face Care
+809,2195,Beauty & Hygiene,Bath & Hand Wash,,,Shower To Shower,Talcum Powder
+814,2213,Beauty & Hygiene,Hair Care,,,Kesh King,Hair Oil & Serum
+818,2246,Beauty & Hygiene,Fragrances & Deos,,,Lalique,Eau De Parfum
+819,2247,Beauty & Hygiene,Hair Care,,,Bblunt,Tools & Accessories
+820,2255,Baby Care,Feeding & Nursing,,,Quick Dry,Bibs & Napkins
+822,2264,Baby Care,Baby Bath & Hygiene,,,Aveeno,Baby Oil & Shampoo
+824,2283,Beauty & Hygiene,Bath & Hand Wash,,,Continent Spice Khadi,Shower Gel & Body Wash
+827,2300,Baby Care,Baby Bath & Hygiene,,,Johnsons,Baby Creams & Lotions
+830,2319,Baby Care,Feeding & Nursing,,,Poop-cee,Sippers & Bottles
+831,2320,Baby Care,Feeding & Nursing,,,Dimpu Poop-Cee,Sippers & Bottles
+833,2329,Baby Care,Feeding & Nursing,,,Vauva,Sippers & Bottles
+836,2340,Beauty & Hygiene,Hair Care,,,Mom & World,Hair Oil & Serum
+837,2343,Beauty & Hygiene,Health & Medicine,,,Bella,Cotton & Ear Buds
+841,2378,Baby Care,Baby Bath & Hygiene,,,Morisons Baby Dreams,Baby Health
+842,2395,Baby Care,Baby Bath & Hygiene,,,Pigeon,Baby Oil & Shampoo
+844,2409,Baby Care,Baby Bath & Hygiene,,,Softsens,Baby Powder
+853,2454,Beauty & Hygiene,Health & Medicine,,,Vicks,Everyday Medicine
+857,2481,Beverages,"Health Drink, Supplement",,,Manna ,Kids (5+Yrs)
+862,2494,Beauty & Hygiene,Health & Medicine,,,Himalaya Wellness,Supplements & Proteins
+863,2513,Cleaning & Household,Stationery,,,Flair,"Pen, Pencils"
+866,2520,Cleaning & Household,Stationery,,,Rorito,"Pen, Pencils"
+868,2522,Cleaning & Household,Stationery,,,Reynolds,"Pen, Pencils"
+869,2528,Cleaning & Household,Stationery,,,BIC Cello,"Pen, Pencils"
+870,2533,Cleaning & Household,Stationery,,,Natraj,"Pen, Pencils"
+871,2534,Beauty & Hygiene,Health & Medicine,,,Siang Pure,Everyday Medicine
+872,2536,Cleaning & Household,Party & Festive Needs,,,Pahal,"Caps, Balloons & Candles"
+873,2537,Cleaning & Household,Party & Festive Needs,,,B Vishal,"Caps, Balloons & Candles"
+876,2543,Beauty & Hygiene,Health & Medicine,,,Zandu,Ayurveda
+879,2550,Beauty & Hygiene,Skin Care,,,Regal Essence,Face Care
+884,2562,"Kitchen, Garden & Pets",Kitchen Accessories,,,Bamboooz,Choppers & Graters
+886,2585,"Kitchen, Garden & Pets",Steel Utensils,,,Vinayak,Steel Storage Containers
+887,2587,Beauty & Hygiene,Skin Care,,,Fizzy Fern,Body Care
+897,2672,Beauty & Hygiene,Bath & Hand Wash,,,Bare Essentials,Bathing Accessories
+898,2680,Beauty & Hygiene,Bath & Hand Wash,,,50ap,Bathing Bars & Soaps
+901,2692,Beauty & Hygiene,Bath & Hand Wash,,,Palmex,Bathing Accessories
+902,2693,Cleaning & Household,Bins & Bathroom Ware,,,Princeware,Buckets & Mugs
+904,2703,Cleaning & Household,Bins & Bathroom Ware,,,SKI,"Bath Stool, Basin & Sets"
+906,2717,Beauty & Hygiene,Feminine Hygiene,,,Remington,Hair Removal
+912,2767,Beauty & Hygiene,Fragrances & Deos,,,Dkny,Eau De Parfum
+915,2805,Beauty & Hygiene,Men's Grooming,,,Bigen,Moustache & Beard Care
+918,2815,Beauty & Hygiene,Men's Grooming,,,Uncle Tony,Moustache & Beard Care
+930,2888,Beauty & Hygiene,Health & Medicine,,,Chicnutrix,Supplements & Proteins
+931,2903,Beauty & Hygiene,Men's Grooming,,,Park avenue,Bath & Shower
+932,2915,"Kitchen, Garden & Pets",Storage & Accessories,,,Saura,Water & Fridge Bottles
+935,2928,Beauty & Hygiene,Fragrances & Deos,,,Bentley,Eau De Parfum
+938,2947,Beauty & Hygiene,Skin Care,,,Soulflower,Aromatherapy
+939,2958,Snacks & Branded Foods,Indian Mithai,,,Sangam Sweets,Fresh Sweets
+940,2959,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Petcrux,Pet Meals & Treats
+945,2988,Beverages,"Health Drink, Supplement",,,Glucon-D,"Glucose Powder, Tablets"
+946,2991,Beauty & Hygiene,Fragrances & Deos,,,David Beckham,Eau De Toilette
+947,2996,"Kitchen, Garden & Pets",Storage & Accessories,,,Swastik,Lunch Boxes
+954,3046,Cleaning & Household,Stationery,,,Ravi Agencies,"Notebooks, Files, Folders"
+955,3057,Beauty & Hygiene,Skin Care,,,Greenberry Organics,Face Care
+957,3073,Beauty & Hygiene,Hair Care,,,Indus Valley,Hair Oil & Serum
+966,3151,Beauty & Hygiene,Hair Care,,,Herbal Essence,Shampoo & Conditioner
+980,3229,Beauty & Hygiene,Health & Medicine,,,Alvizia,Supplements & Proteins
+983,3240,Beauty & Hygiene,Health & Medicine,,,GoYNG,Supplements & Proteins
+984,3243,Beauty & Hygiene,Health & Medicine,,,Pure Nutrition,Supplements & Proteins
+988,3280,Beauty & Hygiene,Men's Grooming,,,Barber's Club,Face & Body
+991,3289,Beauty & Hygiene,Fragrances & Deos,,,Aigner,Eau De Toilette
+1002,3351,Beauty & Hygiene,Skin Care,,,Clean & Clear,Face Care
+1003,3354,"Kitchen, Garden & Pets",Storage & Accessories,,,Borosil,Lunch Boxes
+1004,3355,Beauty & Hygiene,Skin Care,,,Richfeel,Face Care
+1006,3375,Beauty & Hygiene,Fragrances & Deos,,,Fogg ,Men's Deodorants
+1007,3380,Beauty & Hygiene,Skin Care,,,Lotus Organics+,Face Care
+1008,3382,Beauty & Hygiene,Health & Medicine,,,Foresta Organics,Supplements & Proteins
+1010,3390,Beauty & Hygiene,Fragrances & Deos,,,Nautica,Eau De Toilette
+1012,3411,Beauty & Hygiene,Fragrances & Deos,,,Police,Eau De Toilette
+1013,3419,Beauty & Hygiene,Bath & Hand Wash,,,Muyi,Bathing Accessories
+1020,3471,Beauty & Hygiene,Skin Care,,,Creightons,Body Care
+1021,3474,Beauty & Hygiene,Skin Care,,,Glysolid,Body Care
+1023,3491,Beauty & Hygiene,Skin Care,,,Happily Unmarried,Body Care
+1024,3511,Beauty & Hygiene,Skin Care,,,ColorBar,Body Care
+1026,3542,Beauty & Hygiene,Skin Care,,,Neutrogena,Body Care
+1028,3545,Beauty & Hygiene,Fragrances & Deos,,,HE,Body Sprays & Mists
+1029,3546,Beauty & Hygiene,Bath & Hand Wash,,,Ezy Be,Bathing Accessories
+1030,3547,Beauty & Hygiene,Bath & Hand Wash,,,Nice,Bathing Accessories
+1034,3567,Beauty & Hygiene,Fragrances & Deos,,,Secret Temptation,Women's Deodorants
+1035,3573,Beauty & Hygiene,Bath & Hand Wash,,,Vivel,Shower Gel & Body Wash
+1040,3617,Beauty & Hygiene,Bath & Hand Wash,,,DELON,Shower Gel & Body Wash
+1043,3637,Fruits & Vegetables,Cuts & Sprouts,,,Tadaa,Cut & Peeled Veggies
+1046,3645,Beverages,"Health Drink, Supplement",,,Glucovita,"Glucose Powder, Tablets"
+1048,3649,"Kitchen, Garden & Pets",Storage & Accessories,,,Milton,Lunch Boxes
+1049,3651,Beauty & Hygiene,Hair Care,,,Schwarzkopf Professional,Hair & Scalp Treatment
+1050,3654,Cleaning & Household,Bins & Bathroom Ware,,,Nayasa,Buckets & Mugs
+1052,3674,"Kitchen, Garden & Pets",Storage & Accessories,,,Home Puff,Lunch Boxes
+1070,3880,Cleaning & Household,Stationery,,,Goodluck,"Pen, Pencils"
+1071,3882,Cleaning & Household,Stationery,,,Good Luck,"Pen, Pencils"
+1072,3898,Beauty & Hygiene,Skin Care,,,LuxaDerme,Face Care
+1075,3905,Beauty & Hygiene,Skin Care,,,Everyuth Naturals,Face Care
+1077,3923,Beauty & Hygiene,Hair Care,,,Indulekha,Shampoo & Conditioner
+1078,3935,"Kitchen, Garden & Pets",Storage & Accessories,,,Command,Wall Hooks & Hangers
+1081,3944,"Foodgrains, Oil & Masala",Dals & Pulses,,,Super Saver,"Toor, Channa & Moong Dal"
+1088,3990,Beauty & Hygiene,Health & Medicine,,,Strawberry,Cotton & Ear Buds
+1089,3992,Beauty & Hygiene,Skin Care,,,Dirty Works,Body Care
+1092,4001,Cleaning & Household,Fresheners & Repellents,,,RED LINE,Insect Repellent
+1093,4006,Beauty & Hygiene,Health & Medicine,,,Rock Gold,Ayurveda
+1094,4018,Cleaning & Household,Stationery,,,Sterling,Games & Calculators
+1095,4019,Cleaning & Household,Stationery,,,SRS,"Notebooks, Files, Folders"
+1097,4027,Beauty & Hygiene,Skin Care,,,Miss Claire,Lip Care
+1098,4030,Beauty & Hygiene,Health & Medicine,,,Skore,Sexual Wellness
+1100,4045,Cleaning & Household,Stationery,,,Parksons,Games & Calculators
+1105,4083,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Wiggles.in,Pet Meals & Treats
+1107,4088,Beauty & Hygiene,Men's Grooming,,,Trigodon,Shaving Care
+1108,4103,Cleaning & Household,Pooja Needs,,,Om Bhakti,Other Pooja Needs
+1109,4106,Cleaning & Household,Pooja Needs,,,R.E Camphor,Camphor & Wicks
+1110,4111,Beauty & Hygiene,Skin Care,,,Faces,Body Care
+1115,4140,Cleaning & Household,Pooja Needs,,,Kiara Foods,Other Pooja Needs
+1132,4296,Beauty & Hygiene,Hair Care,,,Gold Deer,Hair Oil & Serum
+1136,4375,Cleaning & Household,Fresheners & Repellents,,,Krazy Lines,Insect Repellent
+1186,4761,Beverages,"Health Drink, Supplement",,,Ensure,Men & Women
+1188,4766,Beverages,"Health Drink, Supplement",,,Cadburry,Kids (5+Yrs)
+1191,4789,Beauty & Hygiene,Feminine Hygiene,,,Whisper ,Sanitary Napkins
+1192,4800,"Kitchen, Garden & Pets",Kitchen Accessories,,,Ganesh,Choppers & Graters
+1200,4855,"Kitchen, Garden & Pets",Storage & Accessories,,,Yellow Spark,Lunch Boxes
+1205,4912,Fruits & Vegetables,"Flower Bouquets, Bunches",,,RoseBazaar,Other Flowers
+1209,4988,Cleaning & Household,Fresheners & Repellents,,,Baygon,Insect Repellent
+1214,5046,Beauty & Hygiene,Skin Care,,,Creme 21,Face Care
+1215,5050,Beauty & Hygiene,Fragrances & Deos,,,Jaguar,Eau De Toilette
+1216,5058,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Trixie,Pet Collars & Leashes
+1219,5067,Snacks & Branded Foods,Indian Mithai,,,IndiSecrets,Chikki & Gajjak
+1220,5075,Beauty & Hygiene,Men's Grooming,,,Supermax,Shaving Care
+1221,5088,Beauty & Hygiene,Feminine Hygiene,,,Clean And Dry,Intimate Wash & Care
+1223,5105,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Get Off,Pet Cleaning & Grooming
+1227,5131,Beauty & Hygiene,Skin Care,,,Episoft,Face Care
+1234,5204,Cleaning & Household,Bins & Bathroom Ware,,,Indian,"Hangers, Clips & Rope"
+1235,5207,"Kitchen, Garden & Pets",Storage & Accessories,,,camry,Racks & Holders
+1237,5220,Beauty & Hygiene,Fragrances & Deos,,,Jacques Bogart,Eau De Toilette
+1238,5221,Beauty & Hygiene,Fragrances & Deos,,,Mercedes-Benz,Eau De Toilette
+1239,5236,Cleaning & Household,Fresheners & Repellents,,,Exit No Entry,Insect Repellent
+1241,5249,Beauty & Hygiene,Men's Grooming,,,Palmer's,Face & Body
+1251,5314,Beauty & Hygiene,Hair Care,,,OGX,Hair & Scalp Treatment
+1263,5348,Beauty & Hygiene,Hair Care,,,Subicsha,Hair Oil & Serum
+1265,5362,Beauty & Hygiene,Skin Care,,,Naturals,Body Care
+1268,5416,"Kitchen, Garden & Pets",Steel Utensils,,,Aagam,Plates & Tumblers
+1288,5609,"Kitchen, Garden & Pets",Kitchen Accessories,,,Cook4U,Kitchen Tools & Other Accessories
+1295,5698,Beauty & Hygiene,Hair Care,,,YVES ROCHER,Shampoo & Conditioner
+1296,5700,Beauty & Hygiene,Fragrances & Deos,,,United Colors Of Benetton ,Eau De Toilette
+1300,5754,Beauty & Hygiene,Hair Care,,,Ego of Paris,Tools & Accessories
+1304,5784,Beauty & Hygiene,Hair Care,,,Wonder,Tools & Accessories
+1305,5804,"Kitchen, Garden & Pets",Steel Utensils,,,Frestol,Copper Utensils
+1320,5975,Beauty & Hygiene,Men's Grooming,,,Godrej Cinthol,Talc
+1321,5983,"Kitchen, Garden & Pets",Storage & Accessories,,,Mastercook,Containers Sets
+1322,5995,"Kitchen, Garden & Pets",Storage & Accessories,,,Big Plastics,Containers Sets
+1327,6062,Beauty & Hygiene,Men's Grooming,,,Navratna,Talc
+1330,6128,Cleaning & Household,Stationery,,,Copy Gold,"Notebooks, Files, Folders"
+1331,6130,Cleaning & Household,Stationery,,,B2B,"Notebooks, Files, Folders"
+1332,6132,Cleaning & Household,Stationery,,,JK Copier,"Notebooks, Files, Folders"
+1335,6153,"Kitchen, Garden & Pets",Steel Utensils,,,Suryaflame,Copper Utensils
+1338,6159,"Kitchen, Garden & Pets",Steel Utensils,,,Mr.Copper King,Copper Utensils
+1343,6200,"Kitchen, Garden & Pets",Steel Utensils,,,HealthChoice,Copper Utensils
+1348,6238,"Kitchen, Garden & Pets",Appliances & Electricals,,,Lexton,CFL & Led Bulbs
+1349,6242,"Kitchen, Garden & Pets",Steel Utensils,,,IRICH,Copper Utensils
+1355,6262,"Kitchen, Garden & Pets",Steel Utensils,,,Tallboy,Copper Utensils
+1361,6297,Cleaning & Household,Bins & Bathroom Ware,,,Mr. Boss,"Hangers, Clips & Rope"
+1370,6382,Cleaning & Household,Stationery,,,Prozo Plus,"Notebooks, Files, Folders"
+1373,6444,"Kitchen, Garden & Pets",Kitchen Accessories,,,Adithya,Kitchen Tools & Other Accessories
+1374,6469,Beauty & Hygiene,Health & Medicine,,,FabAlley,Face Masks & Safety Gears
+1375,6476,Beauty & Hygiene,Health & Medicine,,,SINWUAS,Cotton & Ear Buds
+1386,6618,Cleaning & Household,Fresheners & Repellents,,,Odomos,Mosquito Repellent
+1388,6638,Beauty & Hygiene,Hair Care,,,Streax,Hair Color
+1389,6650,Beauty & Hygiene,Feminine Hygiene,,,Veet,Hair Removal
+1390,6697,Beauty & Hygiene,Skin Care,,,Oxy Life,Face Care
+1392,6711,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Dogsee Chew,Pet Meals & Treats
+1393,6732,Beauty & Hygiene,Skin Care,,,Biocare ,Body Care
+1394,6752,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Nissin Food,Cup Noodles
+1395,6761,Beauty & Hygiene,Health & Medicine,,,Azani Active Nutrition,Supplements & Proteins
+1397,6780,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Ferplast,Pet Toys
+1398,6813,Cleaning & Household,Pooja Needs,,,Yagna,"Agarbatti, Incense Sticks"
+1399,6817,Cleaning & Household,Stationery,,,QIPS,Exam Pads & Pencil Box
+1402,6829,Beauty & Hygiene,Bath & Hand Wash,,,Candid,Talcum Powder
+1403,6848,Beauty & Hygiene,Skin Care,,,Lacto Calamine,Face Care
+1404,6856,Beauty & Hygiene,Skin Care,,,Anatomicals,Face Care
+1409,6964,Beauty & Hygiene,Skin Care,,,Avene,Face Care
+1413,6986,Cleaning & Household,Fresheners & Repellents,,,Mukund,Insect Repellent
+1416,7049,Beauty & Hygiene,Skin Care,,,Mondsub,Face Care
+1418,7095,Beauty & Hygiene,Skin Care,,,Charmis,Face Care
+1419,7104,Cleaning & Household,Pooja Needs,,,Om sri Kar,Camphor & Wicks
+1423,7169,Beauty & Hygiene,Fragrances & Deos,,,Adidas,Men's Deodorants
+1424,7170,Beauty & Hygiene,Fragrances & Deos,,,Aramusk,Men's Deodorants
+1428,7220,Cleaning & Household,Pooja Needs,,,Ullas,"Agarbatti, Incense Sticks"
+1431,7272,Beauty & Hygiene,Hair Care,,,Vega,Tools & Accessories
+1437,7320,Cleaning & Household,Pooja Needs,,,Amrutha,"Agarbatti, Incense Sticks"
+1446,7410,"Kitchen, Garden & Pets",Steel Utensils,,,Classic Essentials,Plates & Tumblers
+1447,7412,Beauty & Hygiene,Bath & Hand Wash,,,Jungle Magic,Hand Wash & Sanitizers
+1448,7421,Beauty & Hygiene,Bath & Hand Wash,,,Ciphands,Hand Wash & Sanitizers
+1449,7423,Beauty & Hygiene,Health & Medicine,,,Threptin,Supplements & Proteins
+1450,7426,"Kitchen, Garden & Pets",Storage & Accessories,,,Hm International,Lunch Boxes
+1453,7532,Cleaning & Household,Party & Festive Needs,,,Chuk,Disposable Cups & Plates
+1454,7564,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Himalaya Pet Care,Pet Cleaning & Grooming
+1455,7580,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Choostix,Pet Cleaning & Grooming
+1457,7618,Cleaning & Household,Stationery,,,Scotch,"Scissor, Glue & Tape"
+1458,7621,Beauty & Hygiene,Health & Medicine,,,Healthmeds,Supplements & Proteins
+1464,7679,Cleaning & Household,Stationery,,,Seven,"Scissor, Glue & Tape"
+1465,7701,Beverages,"Health Drink, Supplement",,,Ojasvita,Kids (5+Yrs)
+1468,7720,Beauty & Hygiene,Feminine Hygiene,,,Niine,Sanitary Napkins
+1470,7739,Beauty & Hygiene,Skin Care,,,Bio-Oil,Body Care
+1476,7807,Cleaning & Household,Pooja Needs,,,Maya,"Agarbatti, Incense Sticks"
+1478,7814,Cleaning & Household,Bins & Bathroom Ware,,,Meixiang,Dustbins
+1479,7820,Cleaning & Household,Bins & Bathroom Ware,,,Sunty,Dustbins
+1481,7836,Beauty & Hygiene,Hair Care,,,Godrej Expert,Hair Color
+1482,7857,Beauty & Hygiene,Hair Care,,,Indica,Hair Color
+1484,7873,Beauty & Hygiene,Men's Grooming,,,Premium,Shaving Care
+1486,7894,Beauty & Hygiene,Fragrances & Deos,,,Colour Me,Eau De Toilette
+1487,7913,Beauty & Hygiene,Feminine Hygiene,,,Agastya,Sanitary Napkins
+1490,7959,Beauty & Hygiene,Skin Care,,,The Beauty Co.,Body Care
+1491,8005,Beverages,"Health Drink, Supplement",,,Maltova,Kids (5+Yrs)
+1495,8030,Beauty & Hygiene,Fragrances & Deos,,,Incidence,Women's Deodorants
+1499,8093,Beauty & Hygiene,Feminine Hygiene,,,Braun,Hair Removal
+1505,8183,Beauty & Hygiene,Skin Care,,,Vedicline,Face Care
+1507,8191,Beauty & Hygiene,Health & Medicine,,,Sri Swastik,Everyday Medicine
+1508,8200,Beauty & Hygiene,Skin Care,,,Soultree Ayurvedic,Face Care
+1509,8208,Beauty & Hygiene,Feminine Hygiene,,,LetsShave,Hair Removal
+1510,8244,"Kitchen, Garden & Pets",Storage & Accessories,,,Signoraware,Lunch Boxes
+1511,8258,Beauty & Hygiene,Skin Care,,,Footlogix,Face Care
+1512,8282,Beauty & Hygiene,Health & Medicine,,,Lifree,Adult Diapers
+1523,8453,Beauty & Hygiene,Health & Medicine,,,MG Polyplast,Face Masks & Safety Gears
+1526,8460,Beauty & Hygiene,Health & Medicine,,,SEMCO,Face Masks & Safety Gears
+1527,8464,Beauty & Hygiene,Men's Grooming,,,FAIR AND HANDSOME,Face Care
+1528,8465,Beauty & Hygiene,Skin Care,,,Lite Glo,Face Care
+1536,8537,Beauty & Hygiene,Skin Care,,,Oxy,Face Care
+1540,8563,Beauty & Hygiene,Skin Care,,,Acnes,Face Care
+1547,8628,Beauty & Hygiene,Skin Care,,,Vedaearth,Face Care
+1549,8636,Beauty & Hygiene,Skin Care,,,Calvin Klein ,Face Care
+1554,8700,Beauty & Hygiene,Fragrances & Deos,,,Anna sui,Gift Sets
+1556,8710,Beauty & Hygiene,Hair Care,,,Wellastrate,Tools & Accessories
+1564,8796,Beauty & Hygiene,Bath & Hand Wash,,,Fiama,Shower Gel & Body Wash
+1567,8882,Beauty & Hygiene,Bath & Hand Wash,,,Bibo,Hand Wash & Sanitizers
+1569,8899,"Foodgrains, Oil & Masala",Dals & Pulses,,,Ammi Samayal,Cereals & Millets
+1570,8925,Beauty & Hygiene,Skin Care,,,La Shield,Face Care
+1571,8945,Cleaning & Household,Fresheners & Repellents,,,DND,Mosquito Repellent
+1579,9024,Beauty & Hygiene,Fragrances & Deos,,,Tous,Eau De Toilette
+1581,9046,Cleaning & Household,Party & Festive Needs,,,Hankley,"Caps, Balloons & Candles"
+1582,9051,"Kitchen, Garden & Pets",Steel Utensils,,,Tedemei,Lunch Boxes
+1586,9071,Beauty & Hygiene,Men's Grooming,,,Fredora,Talc
+1587,9079,Beauty & Hygiene,Bath & Hand Wash,,,La-par,Bathing Accessories
+1589,9110,Beauty & Hygiene,Fragrances & Deos,,,Swiss Army,Gift Sets
+1600,9371,Cleaning & Household,Fresheners & Repellents,,,Mikado's,Insect Repellent
+1606,9440,"Kitchen, Garden & Pets",Kitchen Accessories,,,Triones,Kitchen Tools & Other Accessories
+1607,9442,"Kitchen, Garden & Pets",Kitchen Accessories,,,H&B,Kitchen Tools & Other Accessories
+1612,9478,Beauty & Hygiene,Health & Medicine,,,Eno ,Everyday Medicine
+1613,9498,Cleaning & Household,Stationery,,,Navneet Youva,"Notebooks, Files, Folders"
+1614,9510,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Grabenord,Pasta & Macaroni
+1615,9518,"Kitchen, Garden & Pets",Steel Utensils,,,Joyo Steel,Steel Storage Containers
+1621,9582,Cleaning & Household,Stationery,,,Cartini,"Scissor, Glue & Tape"
+1625,9640,"Kitchen, Garden & Pets",Kitchen Accessories,,,Kemei,Kitchen Tools & Other Accessories
+1626,9658,Beauty & Hygiene,Health & Medicine,,,Volini,Everyday Medicine
+1627,9683,Beauty & Hygiene,Bath & Hand Wash,,,Fiama Di Wills,Bathing Bars & Soaps
+1628,9704,Cleaning & Household,Pooja Needs,,,SBE,Other Pooja Needs
+1629,9708,Cleaning & Household,Fresheners & Repellents,,,Maxo,Mosquito Repellent
+1630,9717,Beauty & Hygiene,Skin Care,,,Klairs,Face Care
+1636,9855,Cleaning & Household,Stationery,,,Kangaro,"Notebooks, Files, Folders"
+1648,10159,Cleaning & Household,Stationery,,,M Stick,"Scissor, Glue & Tape"
+1650,10170,Cleaning & Household,Stationery,,,Kores,"Scissor, Glue & Tape"
+1651,10182,Beauty & Hygiene,Health & Medicine,,,Manju's,Everyday Medicine
+1654,10269,"Kitchen, Garden & Pets",Appliances & Electricals,,,Victor,Battery & Electrical
+1657,10331,Beauty & Hygiene,Fragrances & Deos,,,Carolina Herrera ,Eau De Parfum
+1658,10335,Beauty & Hygiene,Feminine Hygiene,,,Healthfab,Sanitary Napkins
+1660,10390,Beauty & Hygiene,Feminine Hygiene,,,Colleen,Sanitary Napkins
+1662,10445,Beauty & Hygiene,Skin Care,,,Dermal,Face Care
+1665,10494,Beauty & Hygiene,Health & Medicine,,,Woodwards,Supplements & Proteins
+1669,10565,Beauty & Hygiene,Hair Care,,,Cute Girl,Hair Styling
+1670,10593,Beauty & Hygiene,Hair Care,,,Godrej Nupur,Hair & Scalp Treatment
+1671,10603,Beauty & Hygiene,Hair Care,,,Khadi,Shampoo & Conditioner
+1674,10652,Beauty & Hygiene,Men's Grooming,,,Vi-john,Hair Care & Styling
+1675,10662,Beauty & Hygiene,Hair Care,,,Uproot,Hair & Scalp Treatment
+1678,10679,Beauty & Hygiene,Hair Care,,,BSY,Hair Color
+1679,10698,Beauty & Hygiene,Hair Care,,,Eyova,Hair Oil & Serum
+1680,10703,Beauty & Hygiene,Hair Care,,,Clear,Hair Oil & Serum
+1683,10767,Beauty & Hygiene,Feminine Hygiene,,,Nair ,Hair Removal
+1684,10799,Beauty & Hygiene,Feminine Hygiene,,,Dimples,Hair Removal
+1685,10806,Beauty & Hygiene,Hair Care,,,Daiou,Tools & Accessories
+1686,10808,Beauty & Hygiene,Hair Care,,,Livon Serum,Hair Oil & Serum
+1687,10819,Beauty & Hygiene,Hair Care,,,Hairmac,Hair Oil & Serum
+1688,10824,Beauty & Hygiene,Hair Care,,,Prakrta,Hair Oil & Serum
+1689,10825,Beauty & Hygiene,Hair Care,,,Novagold,Hair Styling
+1690,10832,Beauty & Hygiene,Hair Care,,,Nova,Hair Styling
+1692,10881,Beauty & Hygiene,Health & Medicine,,,Hajmola ,Ayurveda
+1693,10889,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Desi,Hakka Noodles
+1694,10934,Beauty & Hygiene,Skin Care,,,Kaya Youth,Body Care
+1695,10935,Beauty & Hygiene,Bath & Hand Wash,,,SterloMax,Hand Wash & Sanitizers
+1696,10942,Beauty & Hygiene,Bath & Hand Wash,,,Varam,Hand Wash & Sanitizers
+1700,11024,Beauty & Hygiene,Bath & Hand Wash,,,50 Ap ,Hand Wash & Sanitizers
+1704,11090,Beauty & Hygiene,Hair Care,,,Macadamia,Hair Oil & Serum
+1705,11097,Beverages,"Health Drink, Supplement",,,Horlicks,Kids (5+Yrs)
+1706,11120,Beverages,"Health Drink, Supplement",,,Manna Go Grains,Kids (5+Yrs)
+1707,11122,Beverages,"Health Drink, Supplement",,,Protinex ,Men & Women
+1708,11159,Beauty & Hygiene,Skin Care,,,Krack,Body Care
+1715,11259,Beauty & Hygiene,Bath & Hand Wash,,,Nycil,Hand Wash & Sanitizers
+1716,11264,Beauty & Hygiene,Bath & Hand Wash,,,Humaste,Hand Wash & Sanitizers
+1723,11438,Baby Care,Feeding & Nursing,,,Luvlap,Sippers & Bottles
+1725,11448,Cleaning & Household,Stationery,,,Pilot,"Pen, Pencils"
+1726,11454,Beauty & Hygiene,Fragrances & Deos,,,Crazy Moments,Men's Deodorants
+1727,11458,Cleaning & Household,Party & Festive Needs,,,Boing,Holi Colours & Pichkari
+1731,11550,Beauty & Hygiene,Health & Medicine,,,Coronation,Everyday Medicine
+1736,11644,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Catsan,Pet Cleaning & Grooming
+1739,11732,Beauty & Hygiene,Men's Grooming,,,Phy,Face & Body
+1740,11744,Cleaning & Household,Pooja Needs,,,GIRI,"Agarbatti, Incense Sticks"
+1742,11773,Cleaning & Household,Pooja Needs,,,Ambica,"Agarbatti, Incense Sticks"
+1744,11807,Beauty & Hygiene,Bath & Hand Wash,,,Aristocrat,Hand Wash & Sanitizers
+1745,11813,Beauty & Hygiene,Skin Care,,,Scholl,Body Care
+1746,11816,Cleaning & Household,Fresheners & Repellents,,,Catche,Mosquito Repellent
+1749,11849,Beauty & Hygiene,Men's Grooming,,,Glow & Handsome,Face & Body
+1751,11872,Beauty & Hygiene,Bath & Hand Wash,,,Tri-Activ,Hand Wash & Sanitizers
+1753,11891,Beauty & Hygiene,Health & Medicine,,,Relispray,Everyday Medicine
+1756,11964,Beauty & Hygiene,Hair Care,,,Paul Penders Botanical,Hair Oil & Serum
+1757,11972,Beauty & Hygiene,Feminine Hygiene,,,Namyaa,Intimate Wash & Care
+1758,12003,Baby Care,Mothers & Maternity,,,SimMom,Maternity Health Supplements
+1760,12011,Beauty & Hygiene,Health & Medicine,,,Dabur Nature Care,Ayurveda
+1761,12019,Beauty & Hygiene,Health & Medicine,,,Itch Guard,Everyday Medicine
+1767,12163,Cleaning & Household,Stationery,,,Logitech,Electronic Accessories
+1770,12197,Beauty & Hygiene,Skin Care,,,Omved,Aromatherapy
+1771,12222,Beauty & Hygiene,Health & Medicine,,,Kare In,Adult Diapers
+1773,12287,Cleaning & Household,Stationery,,,Dell,Electronic Accessories
+1774,12290,"Kitchen, Garden & Pets",Storage & Accessories,,,Saaj,Containers Sets
+1775,12306,Beauty & Hygiene,Skin Care,,,Milani,Lip Care
+1777,12308,Beauty & Hygiene,Bath & Hand Wash,,,Haeal,Hand Wash & Sanitizers
+1781,12417,"Kitchen, Garden & Pets",Kitchen Accessories,,,KINGSTA,Knives & Peelers
+1783,12447,"Kitchen, Garden & Pets",Kitchen Accessories,,,Cartini by Godrej,Knives & Peelers
+1785,12488,"Foodgrains, Oil & Masala",Dals & Pulses,,,R.K,Cereals & Millets
+1786,12531,Cleaning & Household,Pooja Needs,,,GOPURAM,Other Pooja Needs
+1787,12568,Beauty & Hygiene,Bath & Hand Wash,,,ACETONE,Bathing Accessories
+1790,12607,Cleaning & Household,Pooja Needs,,,Arham,Other Pooja Needs
+1791,12620,"Eggs, Meat & Fish",Mutton & Lamb,,,Pure South,Frozen Mutton
+1792,12623,Beauty & Hygiene,Feminine Hygiene,,,ezy,Tampons & Menstrual Cups
+1794,12671,Beauty & Hygiene,Bath & Hand Wash,,,Fa,Talcum Powder
+1796,12717,Beauty & Hygiene,Health & Medicine,,,Muscleblaze,Supplements & Proteins
+1802,12924,Beauty & Hygiene,Skin Care,,,Prowomen,Lip Care
+1803,12927,Beauty & Hygiene,Skin Care,,,Swiss Beauty,Lip Care
+1804,12985,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Some More,Instant Noodles
+1808,13053,Beauty & Hygiene,Bath & Hand Wash,,,Dear Body,Bathing Accessories
+1820,13193,Beauty & Hygiene,Health & Medicine,,,Supply6,Supplements & Proteins
+1826,13240,"Kitchen, Garden & Pets",Storage & Accessories,,,Homio,Lunch Boxes
+1827,13269,"Kitchen, Garden & Pets",Steel Utensils,,,NanoNine,Steel Lunch Boxes
+1842,13517,Beverages,"Health Drink, Supplement",,,Ovaltine,Kids (5+Yrs)
+1845,13582,Beauty & Hygiene,Fragrances & Deos,,,OGA,Eau De Parfum
+1847,13620,Beauty & Hygiene,Fragrances & Deos,,,Remy ,Men's Deodorants
+1848,13635,Beauty & Hygiene,Skin Care,,,Aps Cosmetofood,Face Care
+1865,14077,Baby Care,Baby Bath & Hygiene,,,Vilvaa,Baby Oil & Shampoo
+1867,14117,Beauty & Hygiene,Skin Care,,,Dot & Key,Face Care
+1869,14153,Beauty & Hygiene,Feminine Hygiene,,,VWash Wow,Sanitary Napkins
+1872,14263,Beauty & Hygiene,Health & Medicine,,,Aerostar,Face Masks & Safety Gears
+1873,14269,Cleaning & Household,Pooja Needs,,,Bodysoul,"Agarbatti, Incense Sticks"
+1874,14283,Cleaning & Household,Stationery,,,Montex,"Pen, Pencils"
+1876,14327,Beauty & Hygiene,Men's Grooming,,,Oxylife,Face & Body
+1879,14395,Beauty & Hygiene,Hair Care,,,Parachute Advansed,Hair Care & Styling
+1881,14510,Beauty & Hygiene,Feminine Hygiene,,,Rica,Hair Removal
+1882,14555,Beauty & Hygiene,Skin Care,,,moha,Face Care
+1883,14600,"Kitchen, Garden & Pets",Kitchen Accessories,,,FITDI,Choppers & Graters
+1885,14639,Beauty & Hygiene,Skin Care,,,Elovera,Face Care
+1899,14876,Cleaning & Household,Fresheners & Repellents,,,VITRO,Mosquito Repellent
+1900,14913,Cleaning & Household,Stationery,,,KCL,Electronic Accessories
+1904,15029,Cleaning & Household,Party & Festive Needs,,,Clean Planet,Gift Wraps & Bags
+1906,15079,Beauty & Hygiene,Skin Care,,,Paree Pariz,Face Care
+1907,15093,Cleaning & Household,Bins & Bathroom Ware,,,Shengyi,"Laundry, Storage Baskets"
+1912,15222,"Eggs, Meat & Fish",Mutton & Lamb,,,Premier,Frozen Mutton
+1913,15259,Beauty & Hygiene,Health & Medicine,,,Hansaplast,Antiseptics & Bandages
+1915,15291,Snacks & Branded Foods,Indian Mithai,,,Aura,Fresh Sweets
+1916,15304,Snacks & Branded Foods,Indian Mithai,,,Lal,"Tinned, Packed Sweets"
+1917,15332,Beauty & Hygiene,Bath & Hand Wash,,,MCaffeine ,Body Scrubs & Exfoliants
+1920,15359,Cleaning & Household,Fresheners & Repellents,,,Ultra,Insect Repellent
+1921,15366,Cleaning & Household,Fresheners & Repellents,,,Manju,Insect Repellent
+1922,15367,Cleaning & Household,Fresheners & Repellents,,,Kasturi,Air Freshener
+1923,15419,Beauty & Hygiene,Fragrances & Deos,,,Udy,Men's Deodorants
+1925,15518,Beauty & Hygiene,Health & Medicine,,,SHAFIB,Supplements & Proteins
+1927,15546,Beauty & Hygiene,Hair Care,,,Arata Zero Chemicals,Hair & Scalp Treatment
+1929,15591,Cleaning & Household,Fresheners & Repellents,,,Moskito Safe,Mosquito Repellent
+1932,15667,Beauty & Hygiene,Fragrances & Deos,,,Intimate,Women's Deodorants
+1938,15731,Beauty & Hygiene,Hair Care,,,Nihar,Hair Oil & Serum
+1942,15882,Beauty & Hygiene,Health & Medicine,,,Madilu,Supplements & Proteins
+1943,15886,Cleaning & Household,Party & Festive Needs,,,Ayurvedic Technology,Disposable Cups & Plates
+1946,15900,Beauty & Hygiene,Hair Care,,,Ancient Living,Tools & Accessories
+1951,16130,Beauty & Hygiene,Hair Care,,,Hair & Care,Hair Oil & Serum
+1952,16144,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Azad ,Hakka Noodles
+1953,16166,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Sunfeast YiPPee!,Instant Noodles
+1955,16177,Beauty & Hygiene,Skin Care,,,Clenz U,Face Care
+1959,16215,Cleaning & Household,Stationery,,,Vijay,"Notebooks, Files, Folders"
+1964,16369,Beverages,"Health Drink, Supplement",,,Complan,Kids (5+Yrs)
+1965,16383,Beverages,"Health Drink, Supplement",,,Boost,Kids (5+Yrs)
+1966,16403,Beverages,"Health Drink, Supplement",,,Pro360,Men & Women
+1967,16406,Beverages,"Health Drink, Supplement",,,Enfagrow A+,Children (2-5 Yrs)
+1970,16439,"Kitchen, Garden & Pets",Kitchen Accessories,,,Ebpowon,"Strainer, Ladle, Spatula"
+1971,16441,"Kitchen, Garden & Pets",Kitchen Accessories,,,JLT,"Strainer, Ladle, Spatula"
+1977,16497,Beauty & Hygiene,Hair Care,,,Keratone,Hair Oil & Serum
+1978,16511,Beauty & Hygiene,Skin Care,,,Pure,Body Care
+1987,16555,Cleaning & Household,Pooja Needs,,,Dheepam,Lamp & Lamp Oil
+1988,16564,Beauty & Hygiene,Hair Care,,,Khadi Meghdooth,Hair Oil & Serum
+2000,16696,Beauty & Hygiene,Health & Medicine,,,Oilcure,Supplements & Proteins
+2001,16711,Beauty & Hygiene,Health & Medicine,,,Himani,Everyday Medicine
+2003,16792,Beauty & Hygiene,Fragrances & Deos,,,Zippo,Eau De Toilette
+2004,16793,Beauty & Hygiene,Bath & Hand Wash,,,Treaclemoon,Shower Gel & Body Wash
+2005,16799,Beauty & Hygiene,Health & Medicine,,,The Healthy Company,Supplements & Proteins
+2026,17525,Beauty & Hygiene,Skin Care,,,Mirah Belle,Face Care
+2046,18468,Cleaning & Household,Stationery,,,Orpat,Games & Calculators
+2047,18475,"Kitchen, Garden & Pets",Kitchen Accessories,,,Gift Basket,Kitchen Tools & Other Accessories
+2048,18555,Beauty & Hygiene,Health & Medicine,,,Iodex,Everyday Medicine
+2050,18566,Beauty & Hygiene,Health & Medicine,,,Tiger Balm,Everyday Medicine
+2051,18586,Beauty & Hygiene,Health & Medicine,,,Moov,Everyday Medicine
+2053,18602,Beauty & Hygiene,Health & Medicine,,,Sloan's,Everyday Medicine
+2055,18687,Beauty & Hygiene,Feminine Hygiene,,,VClass,Panty Liners
+2056,18689,Beauty & Hygiene,Feminine Hygiene,,,PINQ,Panty Liners
+2058,18715,Beauty & Hygiene,Feminine Hygiene,,,Carefree,Panty Liners
+2065,18979,Beauty & Hygiene,Men's Grooming,,,Lapar,Nails
+2071,19189,Beauty & Hygiene,Fragrances & Deos,,,Active,Body Sprays & Mists
+2072,19190,Beauty & Hygiene,Fragrances & Deos,,,Backpack,Body Sprays & Mists
+2073,19191,Beauty & Hygiene,Fragrances & Deos,,,Paris,Body Sprays & Mists
+2074,19266,Beauty & Hygiene,Fragrances & Deos,,,Royal Mirage,Body Sprays & Mists
+2079,19346,"Kitchen, Garden & Pets",Storage & Accessories,,,Steelo,Containers Sets
+2080,19359,"Kitchen, Garden & Pets",Pet Food & Accessories,,,Pet Heal,Pet Cleaning & Grooming
+2081,19368,"Kitchen, Garden & Pets",Storage & Accessories,,,Pearlpet,Containers Sets
+2084,19448,Beauty & Hygiene,Hair Care,,,Kent,Tools & Accessories
+2086,19461,Beauty & Hygiene,Skin Care,,,Lotus Professional,Face Care
+2087,19476,"Kitchen, Garden & Pets",Storage & Accessories,,,Pinnacle,Lunch Boxes
+2088,19515,Snacks & Branded Foods,Indian Mithai,,,FOUROCLOK,"Tinned, Packed Sweets"
+2089,19572,"Kitchen, Garden & Pets",Storage & Accessories,,,Suvidha,Containers Sets
+2093,19694,"Kitchen, Garden & Pets",Storage & Accessories,,,Cosmo,Containers Sets
+2094,19721,Cleaning & Household,Bins & Bathroom Ware,,,Magix,"Hangers, Clips & Rope"
+2095,19740,Cleaning & Household,Bins & Bathroom Ware,,,Jianan,Dustbins
+2097,19768,Beauty & Hygiene,Skin Care,,,Baol,Body Care
+2098,19811,"Kitchen, Garden & Pets",Storage & Accessories,,,Iqix,Lunch Boxes
+2099,19819,"Kitchen, Garden & Pets",Storage & Accessories,,,Yoo Yee,Lunch Boxes
+2103,19977,Beauty & Hygiene,Health & Medicine,,,Kohinoor Condoms,Sexual Wellness
+2104,19983,Beauty & Hygiene,Feminine Hygiene,,,Vwash,Intimate Wash & Care
+2105,20014,"Kitchen, Garden & Pets",Kitchen Accessories,,,Xishifeng,Knives & Peelers
+2109,20083,Cleaning & Household,Pooja Needs,,,Porna,Lamp & Lamp Oil
+2110,20091,Cleaning & Household,Pooja Needs,,,Parkash Candles,Candles & Match Box
+2111,20095,Cleaning & Household,Pooja Needs,,,Gomutra,Other Pooja Needs
+2118,20336,Cleaning & Household,Pooja Needs,,,Bharath Brand,Other Pooja Needs
+2120,20396,Cleaning & Household,Pooja Needs,,,Asthagandha,Other Pooja Needs
+2121,20413,Cleaning & Household,Pooja Needs,,,Murugesan,Other Pooja Needs
+2125,20456,Beauty & Hygiene,Fragrances & Deos,,,Antonio Banderas,Eau De Toilette
+2126,20533,Beauty & Hygiene,Bath & Hand Wash,,,Freale,Bathing Bars & Soaps
+2127,20545,Beauty & Hygiene,Health & Medicine,,,Love Me,Sexual Wellness
+2128,20558,Beauty & Hygiene,Feminine Hygiene,,,mJOY,Tampons & Menstrual Cups
+2129,20600,Beauty & Hygiene,Men's Grooming,,,Bro Code,Moustache & Beard Care
+2130,20626,Cleaning & Household,Bins & Bathroom Ware,,,Maruti,"Hangers, Clips & Rope"
+2131,20679,Beauty & Hygiene,Bath & Hand Wash,,,Dermi Cool,Talcum Powder
+2137,20828,Beauty & Hygiene,Hair Care,,,Salon,Tools & Accessories
+2138,20844,Beauty & Hygiene,Hair Care,,,Chaoba,Tools & Accessories
+2142,20916,Cleaning & Household,Pooja Needs,,,Jaji,Camphor & Wicks
+2143,20938,Beauty & Hygiene,Bath & Hand Wash,,,Ceramic ,Bathing Accessories
+2145,20961,Cleaning & Household,Stationery,,,Kangaroo,"Notebooks, Files, Folders"
+2146,21004,Cleaning & Household,Pooja Needs,,,Mangalam,Camphor & Wicks
+2147,21028,Beauty & Hygiene,Skin Care,,,Monika Chandra,Aromatherapy
+2148,21065,Beauty & Hygiene,Skin Care,,,Nicka K,Lip Care
+2150,21095,Beauty & Hygiene,Bath & Hand Wash,,,Khadi Essentials,Hand Wash & Sanitizers
+2151,21221,Beverages,"Health Drink, Supplement",,,Ammae,Men & Women
+2154,21334,Beauty & Hygiene,Men's Grooming,,,Laser,Shaving Care
+2162,21617,Beauty & Hygiene,Health & Medicine,,,Karkhana,Face Masks & Safety Gears
+2164,21744,Snacks & Branded Foods,Indian Mithai,,,MISHT,Fresh Sweets
+2165,21751,"Kitchen, Garden & Pets",Storage & Accessories,,,Nilkamal,Cloth Dryer & Iron Table
+2168,21800,Beauty & Hygiene,Hair Care,,,Nisargalaya,Hair Oil & Serum
+2170,21878,Cleaning & Household,Party & Festive Needs,,,Re,Disposable Cups & Plates
+2171,21890,Cleaning & Household,Stationery,,,Oasis,"Notebooks, Files, Folders"
+2172,21900,Cleaning & Household,Stationery,,,Darshi,Exam Pads & Pencil Box
+2173,21993,Beauty & Hygiene,Health & Medicine,,,Honeywell,Face Masks & Safety Gears
+2174,21995,Beauty & Hygiene,Health & Medicine,,,SAFE-KI,Face Masks & Safety Gears
+2179,22140,Beauty & Hygiene,Feminine Hygiene,,,Comfy Snug Fit,Sanitary Napkins
+2180,22192,Beauty & Hygiene,Bath & Hand Wash,,,Godrej Aer,Hand Wash & Sanitizers
+2181,22204,"Kitchen, Garden & Pets",Storage & Accessories,,,Savera,Cloth Dryer & Iron Table
+2182,22228,"Foodgrains, Oil & Masala",Dals & Pulses,,,Satyendra,Cereals & Millets
+2185,22329,Beauty & Hygiene,Fragrances & Deos,,,Ferrari ,Eau De Toilette
+2186,22366,Beauty & Hygiene,Skin Care,,,Bioderma,Face Care
+2189,22445,Beauty & Hygiene,Health & Medicine,,,Bodygard,Everyday Medicine
+2190,22446,Beauty & Hygiene,Hair Care,,,Basicare,Tools & Accessories
+2191,22448,Cleaning & Household,Stationery,,,Post-It,Books & Magazines
+2192,22451,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,Savorit,Vermicelli
+2193,22496,Cleaning & Household,Stationery,,,Solo,Books & Magazines
+2194,22506,Beauty & Hygiene,Hair Care,,,Livon,Hair Oil & Serum
+2195,22508,Beauty & Hygiene,Skin Care,,,EVVER,Face Care
+2199,22706,Beauty & Hygiene,Fragrances & Deos,,,Layerr,Women's Deodorants
+2209,23047,Beauty & Hygiene,Skin Care,,,Fruit Of The Earth,Body Care
+2213,23393,Beauty & Hygiene,Skin Care,,,D'Acne,Face Care
+2215,23420,Cleaning & Household,Stationery,,,Maped ,Games & Calculators
+2217,23523,"Foodgrains, Oil & Masala",Dals & Pulses,,,Nutrela,Cereals & Millets
+2219,23586,"Kitchen, Garden & Pets",Storage & Accessories,,,Mahaware,Containers Sets
+2222,23614,Beauty & Hygiene,Bath & Hand Wash,,,Opex,Bathing Accessories
+2227,23725,Cleaning & Household,Pooja Needs,,,Unique Arts & Interiors,Candles & Match Box
+2230,23800,Beauty & Hygiene,Bath & Hand Wash,,,Aeres,Hand Wash & Sanitizers
+2231,23836,"Kitchen, Garden & Pets",Steel Utensils,,,Steel Lock,Steel Storage Containers
+2233,23942,"Kitchen, Garden & Pets",Kitchen Accessories,,,Swastik Steel,Kitchen Tools & Other Accessories
+2234,24042,"Kitchen, Garden & Pets",Steel Utensils,,,Ramson,Bowls & Vessels
+2237,24321,Cleaning & Household,Stationery,,,Brother,"Scissor, Glue & Tape"
+2238,24369,"Kitchen, Garden & Pets",Steel Utensils,,,Jensons,Steel Storage Containers
+2241,24530,"Kitchen, Garden & Pets",Steel Utensils,,,Magnus,Steel Lunch Boxes
+2247,24836,"Kitchen, Garden & Pets",Storage & Accessories,,,Big Plastic,Containers Sets
+2248,24889,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",,,A&M,Instant Noodles
+2250,25035,Beauty & Hygiene,Skin Care,,,Nuface Ultra,Face Care
+2251,25089,Cleaning & Household,Stationery,,,Evo bond,"Scissor, Glue & Tape"
+2252,25095,Beauty & Hygiene,Health & Medicine,,,PediaCare,Supplements & Proteins
+2254,25199,Snacks & Branded Foods,Indian Mithai,,,Bikalananda Kars,"Tinned, Packed Sweets"
+2257,25504,Cleaning & Household,Pooja Needs,,,Diyaz,Candles & Match Box
+2258,25511,Beauty & Hygiene,Skin Care,,,Malu Wilz,Face Care
+2259,25536,Beauty & Hygiene,Bath & Hand Wash,,,O,Hand Wash & Sanitizers
+2261,25563,"Kitchen, Garden & Pets",Storage & Accessories,,,Parachase,Umbrella
+2271,25953,Cleaning & Household,Stationery,,,Royal Touch,"Notebooks, Files, Folders"
+2272,25954,Cleaning & Household,Stationery,,,Trident Spectra,"Notebooks, Files, Folders"
+2273,25962,Beauty & Hygiene,Health & Medicine,,,1mg,Supplements & Proteins
+2274,25994,Beauty & Hygiene,Skin Care,,,Paese Cosmetics,Face Care
+2275,25997,"Kitchen, Garden & Pets",Storage & Accessories,,,Bento,Lunch Boxes
+2279,26183,Beauty & Hygiene,Feminine Hygiene,,,EverEve,Sanitary Napkins
+2280,26185,"Kitchen, Garden & Pets",Appliances & Electricals,,,Duracell,Battery & Electrical
+2282,26360,"Kitchen, Garden & Pets",Appliances & Electricals,,,Spartan,Battery & Electrical
+2284,26428,Beauty & Hygiene,Fragrances & Deos,,,Versace V19.69,Perfume
+2285,26429,Cleaning & Household,Fresheners & Repellents,,,Khushbu,Air Freshener
+2286,26431,"Kitchen, Garden & Pets",Appliances & Electricals,,,Mansaa,CFL & Led Bulbs
+2287,26444,"Kitchen, Garden & Pets",Storage & Accessories,,,Cerbiatto,Racks & Holders
+2289,26466,Beauty & Hygiene,Feminine Hygiene,,,Everteen,Intimate Wash & Care
+2290,26479,Beauty & Hygiene,Fragrances & Deos,,,AmitabhB,Men's Deodorants
+2292,26489,Beauty & Hygiene,Fragrances & Deos,,,Open,Body Sprays & Mists
+2293,26503,Beauty & Hygiene,Fragrances & Deos,,,One man show,Body Sprays & Mists
+2299,26971,Cleaning & Household,Pooja Needs,,,Bittoo Tealight,Candles & Match Box
+2300,27005,Beauty & Hygiene,Fragrances & Deos,,,CHENNAI SUPER KINGS,Men's Deodorants
+2303,27064,Beverages,"Health Drink, Supplement",,,Amul Pro,Kids (5+Yrs)
+2304,27076,Beauty & Hygiene,Health & Medicine,,,FITWHEY,Supplements & Proteins
+2305,27079,Beauty & Hygiene,Fragrances & Deos,,,Evaflor,Eau De Toilette
+2307,27186,Beauty & Hygiene,Skin Care,,,The Body Shop,Body Care
+2313,27518,Cleaning & Household,Stationery,,,Zebronics,Electronic Accessories
